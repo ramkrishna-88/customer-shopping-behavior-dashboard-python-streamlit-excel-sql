@@ -1,0 +1,31 @@
+CUSTOMER SHOPPING BEHAVIOR ANALYSIS
+Project Report
+
+Objective
+Analyze shopping transactions to understand product category performance, monthly revenue, customer purchasing patterns, ratings, discounts, and payment preferences.
+
+Tools
+Python (Pandas, NumPy, Matplotlib), SQL (SQLite), and Microsoft Excel.
+
+Dataset
+A synthetic learning dataset containing 1000 transaction rows and fields covering customer demographics, purchase details, category, amount, review rating, discount usage, payment method, and purchase date.
+
+Methodology
+1. Loaded and checked the dataset.
+2. Cleaned duplicate transaction IDs and invalid/missing analysis values in Python.
+3. Calculated key performance indicators and category/monthly summaries.
+4. Prepared SQL queries for business questions.
+5. Created an Excel dashboard with KPI formulas and charts.
+
+Suggested KPIs
+- Total orders: 1000
+- Unique customers: 368
+- Total revenue (USD): 66224.15
+- Average order value (USD): 66.22
+- Average review rating: 4.03
+
+Limitations
+The included data is synthetic and is not evidence of real market or company behavior. Any insights are for demonstrating analysis methods only.
+
+Future improvements
+Use a real, cited dataset; compare customer cohorts; calculate repeat purchase rates; and create a dashboard with slicers in Excel or Power BI.

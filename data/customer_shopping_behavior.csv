@@ -1,0 +1,1001 @@
+Purchase_ID,Customer_ID,Age,Gender,Item_Purchased,Category,Purchase_Amount_USD,Location,Size,Color,Season,Review_Rating,Subscription_Status,Shipping_Type,Discount_Applied,Promo_Code_Used,Previous_Purchases,Payment_Method,Frequency_of_Purchases,Purchase_Date
+P00001,C0204,53,Male,Sneakers,Footwear,143.0,Georgia,S,Red,Spring,4.0,No,Next Day,No,No,36,Debit Card,Monthly,2025-11-06
+P00002,C0183,66,Male,Backpack,Accessories,14.0,Illinois,L,Gray,Fall,2.5,No,Standard,No,No,33,PayPal,Weekly,2025-03-04
+P00003,C0029,21,Male,Boots,Footwear,65.73,New York,S,Gray,Spring,3.5,No,Standard,Yes,No,25,PayPal,Monthly,2025-08-20
+P00004,C0048,35,Male,Sandals,Footwear,86.0,Georgia,L,Gray,Fall,4.5,No,Free Shipping,No,No,12,Credit Card,Quarterly,2025-07-04
+P00005,C0239,32,Male,Jeans,Clothing,82.0,Georgia,L,Green,Fall,4.5,No,Express,No,No,26,Credit Card,Monthly,2025-08-12
+P00006,C0228,48,Female,Coat,Outerwear,63.0,Texas,M,Gray,Spring,4.5,Yes,Standard,No,No,23,Cash,Fortnightly,2025-02-11
+P00007,C0222,46,Male,Sneakers,Footwear,83.0,Florida,L,Blue,Summer,4.0,No,Next Day,No,No,37,Cash,Monthly,2025-06-20
+P00008,C0063,64,Female,Loafers,Footwear,45.0,New York,M,Blue,Spring,3.0,Yes,Express,No,No,10,Bank Transfer,Annually,2025-08-17
+P00009,C0204,66,Female,T-shirt,Clothing,69.94,Ohio,One Size,Pink,Fall,2.0,No,Free Shipping,Yes,Yes,2,Bank Transfer,Monthly,2025-05-05
+P00010,C0025,58,Male,Wallet,Accessories,57.0,Ohio,XL,Green,Summer,4.5,Yes,Next Day,No,No,5,PayPal,Monthly,2025-11-16
+P00011,C0058,28,Female,Sweater,Clothing,47.79,New York,M,Brown,Summer,4.0,Yes,Standard,Yes,Yes,7,Cash,Fortnightly,2025-07-13
+P00012,C0200,20,Other,Jacket,Outerwear,91.01,Washington,L,Gray,Spring,4.5,No,Standard,Yes,Yes,26,Debit Card,Monthly,2025-05-13
+P00013,C0247,65,Female,Backpack,Accessories,21.0,Florida,L,Red,Summer,3.5,No,Standard,No,No,6,Cash,Quarterly,2025-01-12
+P00014,C0263,67,Male,Sneakers,Footwear,149.0,Illinois,One Size,Green,Summer,4.0,Yes,Next Day,No,No,6,Bank Transfer,Quarterly,2025-03-03
+P00015,C0393,31,Female,Belt,Accessories,58.0,California,M,Gray,Spring,5.0,Yes,Express,No,No,16,Cash,Monthly,2025-06-23
+P00016,C0342,20,Male,Jeans,Clothing,33.39,Ohio,L,Blue,Winter,3.5,No,Next Day,Yes,No,31,Debit Card,Quarterly,2025-05-27
+P00017,C0152,54,Female,Wallet,Accessories,33.4,Florida,XL,Red,Summer,3.0,No,Express,Yes,Yes,17,Debit Card,Monthly,2025-11-15
+P00018,C0314,49,Female,Shirt,Clothing,76.0,Ohio,S,Gray,Spring,4.5,No,Standard,No,No,11,Credit Card,Quarterly,2025-10-14
+P00019,C0039,65,Female,Sneakers,Footwear,105.47,California,L,Black,Fall,4.5,Yes,Standard,Yes,Yes,12,Debit Card,Weekly,2025-02-28
+P00020,C0343,48,Male,Wallet,Accessories,34.62,Illinois,S,Black,Summer,5.0,No,Standard,Yes,Yes,32,Cash,Monthly,2025-08-04
+P00021,C0155,58,Other,Sandals,Footwear,49.58,Texas,L,Blue,Summer,5.0,No,Standard,Yes,Yes,17,PayPal,Quarterly,2025-06-15
+P00022,C0305,59,Other,Skirt,Clothing,71.0,Georgia,M,Green,Fall,4.5,Yes,Express,No,No,15,Credit Card,Annually,2025-02-06
+P00023,C0389,18,Female,Raincoat,Outerwear,158.0,Illinois,One Size,Blue,Spring,2.0,No,Free Shipping,No,Yes,31,PayPal,Quarterly,2025-09-01
+P00024,C0282,25,Female,Coat,Outerwear,147.0,Washington,M,Red,Fall,4.0,Yes,Standard,No,No,15,Debit Card,Quarterly,2025-07-16
+P00025,C0369,59,Female,Flats,Footwear,34.0,New York,S,Blue,Spring,5.0,No,Next Day,No,No,14,Debit Card,Quarterly,2025-02-01
+P00026,C0005,27,Male,Shirt,Clothing,45.85,Washington,XL,White,Spring,4.0,No,Standard,Yes,Yes,30,Debit Card,Quarterly,2025-06-20
+P00027,C0069,28,Male,Sunglasses,Accessories,48.08,New York,XL,Black,Spring,5.0,Yes,Next Day,Yes,No,13,Debit Card,Fortnightly,2025-09-25
+P00028,C0251,57,Female,T-shirt,Clothing,95.0,Texas,L,Brown,Spring,4.5,No,Standard,No,No,20,PayPal,Monthly,2025-04-30
+P00029,C0217,28,Male,Jeans,Clothing,46.32,California,L,Red,Summer,3.0,No,Next Day,Yes,No,26,PayPal,Quarterly,2025-05-11
+P00030,C0049,25,Male,Flats,Footwear,59.12,New York,M,Blue,Winter,4.0,No,Standard,Yes,Yes,8,PayPal,Monthly,2025-02-10
+P00031,C0288,18,Female,Boots,Footwear,86.56,Illinois,L,Green,Winter,4.5,No,Standard,Yes,Yes,6,Debit Card,Quarterly,2025-03-16
+P00032,C0024,42,Female,Hoodie,Outerwear,56.63,California,S,Pink,Spring,3.0,Yes,Express,Yes,Yes,34,PayPal,Monthly,2025-12-25
+P00033,C0397,51,Female,Jeans,Clothing,22.0,Illinois,M,Brown,Winter,4.0,Yes,Standard,No,No,12,Credit Card,Fortnightly,2025-08-15
+P00034,C0063,56,Female,Jeans,Clothing,72.0,Ohio,One Size,Pink,Fall,4.5,No,Express,No,No,14,Debit Card,Fortnightly,2025-03-06
+P00035,C0179,65,Female,Sunglasses,Accessories,68.51,California,L,Red,Fall,3.5,Yes,Standard,Yes,No,24,Debit Card,Quarterly,2025-06-26
+P00036,C0330,52,Male,T-shirt,Clothing,86.0,Washington,M,White,Winter,4.0,Yes,Free Shipping,No,No,5,PayPal,Weekly,2025-03-12
+P00037,C0206,58,Female,T-shirt,Clothing,64.0,Texas,S,White,Summer,4.5,No,Standard,No,No,2,Bank Transfer,Quarterly,2025-06-11
+P00038,C0298,29,Male,Scarf,Accessories,13.0,Texas,One Size,White,Summer,4.5,Yes,Express,No,No,17,Credit Card,Weekly,2025-02-23
+P00039,C0282,36,Male,T-shirt,Clothing,98.0,Illinois,S,Pink,Fall,4.0,No,Free Shipping,No,No,38,Cash,Monthly,2025-08-14
+P00040,C0380,34,Male,Sunglasses,Accessories,43.0,Washington,M,Blue,Fall,5.0,No,Next Day,No,No,23,Credit Card,Quarterly,2025-07-28
+P00041,C0186,21,Male,Sunglasses,Accessories,31.0,Washington,M,Brown,Fall,5.0,No,Standard,No,No,23,Debit Card,Monthly,2025-08-20
+P00042,C0392,69,Female,Loafers,Footwear,109.39,California,S,Pink,Spring,4.0,Yes,Express,Yes,Yes,24,Cash,Quarterly,2025-06-11
+P00043,C0207,30,Female,Boots,Footwear,112.31,Illinois,M,Brown,Winter,3.5,No,Standard,Yes,Yes,34,PayPal,Weekly,2025-04-15
+P00044,C0358,41,Female,T-shirt,Clothing,64.27,Texas,One Size,Gray,Summer,4.5,No,Express,Yes,Yes,33,Cash,Monthly,2025-04-02
+P00045,C0294,36,Male,Flats,Footwear,62.0,Texas,M,Brown,Winter,3.5,No,Express,No,No,1,Cash,Monthly,2025-03-20
+P00046,C0054,20,Male,Loafers,Footwear,158.0,Georgia,L,Black,Summer,5.0,No,Next Day,No,No,22,Credit Card,Quarterly,2025-06-06
+P00047,C0258,65,Female,T-shirt,Clothing,47.54,New York,L,Brown,Spring,4.0,No,Free Shipping,Yes,No,22,Bank Transfer,Weekly,2025-06-14
+P00048,C0352,29,Female,Sweater,Clothing,60.0,Florida,L,Green,Winter,4.0,No,Standard,No,No,9,Bank Transfer,Monthly,2025-09-03
+P00049,C0052,23,Male,Sneakers,Footwear,108.22,Florida,L,Pink,Fall,4.0,Yes,Standard,Yes,Yes,39,Debit Card,Quarterly,2025-01-20
+P00050,C0336,36,Female,Shirt,Clothing,56.27,California,L,Black,Spring,4.0,No,Standard,Yes,Yes,11,Credit Card,Annually,2025-04-13
+P00051,C0043,25,Other,Dress,Clothing,22.06,Ohio,L,Pink,Spring,5.0,Yes,Express,Yes,Yes,33,Credit Card,Quarterly,2025-11-08
+P00052,C0349,70,Female,Skirt,Clothing,40.0,Florida,L,Green,Spring,3.5,No,Standard,No,No,4,Cash,Quarterly,2025-12-01
+P00053,C0316,28,Female,Loafers,Footwear,54.77,Washington,XL,Black,Spring,5.0,No,Express,Yes,Yes,24,Bank Transfer,Monthly,2025-12-06
+P00054,C0061,34,Female,Sunglasses,Accessories,68.96,Florida,L,Green,Winter,2.5,Yes,Express,Yes,No,29,Cash,Monthly,2025-04-22
+P00055,C0291,32,Female,Loafers,Footwear,95.29,Georgia,XL,Black,Spring,4.5,No,Free Shipping,Yes,Yes,20,Debit Card,Quarterly,2025-02-20
+P00056,C0047,19,Female,Sandals,Footwear,74.0,Washington,S,Black,Spring,5.0,No,Standard,No,No,5,Credit Card,Quarterly,2025-03-14
+P00057,C0228,18,Male,Watch,Accessories,65.0,Texas,L,Green,Winter,4.0,Yes,Standard,No,No,5,Debit Card,Quarterly,2025-02-18
+P00058,C0370,45,Female,Backpack,Accessories,65.0,Georgia,L,Brown,Winter,3.0,No,Standard,No,No,24,Debit Card,Quarterly,2025-12-15
+P00059,C0083,30,Male,T-shirt,Clothing,48.0,Ohio,M,Black,Spring,4.5,No,Express,No,No,34,Credit Card,Quarterly,2025-11-19
+P00060,C0070,22,Female,Skirt,Clothing,49.0,Illinois,XL,White,Fall,5.0,No,Standard,No,No,24,Credit Card,Weekly,2025-10-23
+P00061,C0170,33,Female,Belt,Accessories,77.0,New York,M,Red,Fall,4.0,No,Standard,No,No,4,Credit Card,Fortnightly,2025-09-24
+P00062,C0148,32,Female,Sunglasses,Accessories,52.0,Illinois,M,Green,Fall,4.0,No,Standard,No,No,31,Credit Card,Annually,2025-05-06
+P00063,C0020,40,Female,Backpack,Accessories,21.0,Washington,XL,Black,Summer,4.5,No,Next Day,No,No,18,PayPal,Monthly,2025-06-23
+P00064,C0183,70,Female,Sandals,Footwear,122.0,Texas,M,Gray,Winter,3.5,Yes,Free Shipping,No,No,3,Debit Card,Fortnightly,2025-11-04
+P00065,C0104,34,Female,Backpack,Accessories,54.0,California,M,Red,Winter,4.5,Yes,Standard,No,No,15,Debit Card,Monthly,2025-10-25
+P00066,C0050,55,Male,Scarf,Accessories,48.0,Illinois,M,Pink,Fall,4.0,No,Standard,No,No,8,Debit Card,Monthly,2025-07-09
+P00067,C0111,58,Male,Sunglasses,Accessories,55.25,Ohio,XL,White,Winter,3.5,No,Express,Yes,Yes,39,Bank Transfer,Quarterly,2025-11-02
+P00068,C0009,20,Male,Sweater,Clothing,69.51,Texas,M,Red,Spring,4.5,No,Standard,Yes,Yes,36,PayPal,Quarterly,2025-05-07
+P00069,C0367,44,Female,Skirt,Clothing,43.0,Florida,L,Black,Fall,4.0,No,Free Shipping,No,No,5,PayPal,Weekly,2025-05-31
+P00070,C0398,41,Male,Sunglasses,Accessories,41.0,New York,XL,Pink,Winter,5.0,No,Express,No,No,23,PayPal,Monthly,2025-11-03
+P00071,C0148,44,Male,Jeans,Clothing,31.0,Washington,L,Brown,Fall,4.0,No,Next Day,No,No,1,PayPal,Weekly,2025-05-18
+P00072,C0351,27,Female,Dress,Clothing,70.0,Ohio,One Size,White,Winter,4.0,No,Free Shipping,No,Yes,18,PayPal,Quarterly,2025-10-02
+P00073,C0185,42,Female,Boots,Footwear,79.0,Ohio,XL,Red,Summer,4.0,No,Express,No,No,7,Debit Card,Fortnightly,2025-06-15
+P00074,C0365,24,Male,Jeans,Clothing,44.0,Florida,M,Brown,Winter,4.0,No,Standard,No,No,30,Debit Card,Monthly,2025-04-19
+P00075,C0070,68,Male,Skirt,Clothing,64.92,New York,One Size,White,Winter,4.5,No,Express,Yes,Yes,3,Debit Card,Monthly,2025-03-21
+P00076,C0114,49,Female,Dress,Clothing,38.15,Florida,L,Blue,Fall,4.5,Yes,Standard,Yes,Yes,36,Debit Card,Monthly,2025-08-10
+P00077,C0296,19,Female,Skirt,Clothing,54.0,Georgia,S,Blue,Fall,4.5,No,Express,No,No,10,Credit Card,Monthly,2025-06-25
+P00078,C0089,44,Other,Watch,Accessories,43.0,New York,M,Gray,Fall,4.0,Yes,Free Shipping,No,No,11,Debit Card,Quarterly,2025-05-15
+P00079,C0330,67,Female,Watch,Accessories,29.0,California,L,Blue,Summer,3.5,No,Standard,No,No,35,Debit Card,Monthly,2025-09-29
+P00080,C0171,57,Male,Sneakers,Footwear,41.0,Ohio,S,Black,Fall,3.0,No,Express,No,Yes,36,Debit Card,Weekly,2025-01-01
+P00081,C0162,32,Male,Wallet,Accessories,72.0,Illinois,L,Blue,Winter,4.5,No,Standard,No,No,4,Debit Card,Monthly,2025-02-03
+P00082,C0182,65,Male,Skirt,Clothing,19.11,California,M,Pink,Spring,4.0,No,Standard,Yes,No,5,Credit Card,Monthly,2025-12-18
+P00083,C0320,27,Male,Sandals,Footwear,68.0,New York,L,Brown,Spring,4.0,No,Express,No,No,34,Credit Card,Monthly,2025-08-31
+P00084,C0003,31,Female,Shirt,Clothing,63.7,Florida,S,Pink,Summer,4.0,No,Next Day,Yes,Yes,39,Debit Card,Quarterly,2025-07-20
+P00085,C0301,26,Male,Skirt,Clothing,26.0,Illinois,XL,White,Summer,4.0,No,Express,No,No,20,PayPal,Monthly,2025-01-06
+P00086,C0312,66,Male,Jeans,Clothing,70.0,Ohio,M,Red,Fall,4.5,No,Standard,No,No,7,Credit Card,Quarterly,2025-08-07
+P00087,C0329,55,Male,Sandals,Footwear,101.58,Georgia,S,Red,Summer,4.5,No,Standard,Yes,Yes,6,Credit Card,Fortnightly,2025-06-08
+P00088,C0399,45,Female,Scarf,Accessories,59.0,Florida,M,Green,Fall,5.0,Yes,Express,No,No,11,Credit Card,Quarterly,2025-08-07
+P00089,C0313,53,Female,Sweater,Clothing,33.86,Florida,M,Black,Spring,3.0,Yes,Express,Yes,Yes,27,Debit Card,Fortnightly,2025-01-15
+P00090,C0212,31,Female,Sunglasses,Accessories,9.71,Georgia,L,Green,Summer,4.0,Yes,Free Shipping,Yes,Yes,4,Credit Card,Monthly,2025-07-20
+P00091,C0187,21,Female,Skirt,Clothing,70.68,Ohio,L,Black,Fall,3.0,No,Next Day,Yes,No,26,Debit Card,Monthly,2025-07-30
+P00092,C0156,62,Male,Loafers,Footwear,56.89,California,S,White,Summer,4.5,Yes,Free Shipping,Yes,No,32,Debit Card,Monthly,2025-04-16
+P00093,C0331,69,Male,Belt,Accessories,70.0,Washington,XL,White,Fall,4.5,No,Free Shipping,No,No,6,Bank Transfer,Fortnightly,2025-01-20
+P00094,C0158,19,Male,Skirt,Clothing,31.0,Washington,M,Gray,Fall,4.0,No,Standard,No,Yes,39,PayPal,Quarterly,2025-12-21
+P00095,C0230,20,Male,Dress,Clothing,28.0,California,S,Pink,Summer,4.5,No,Express,No,Yes,39,Credit Card,Monthly,2025-09-16
+P00096,C0039,47,Female,Backpack,Accessories,68.0,Georgia,L,Gray,Summer,4.0,Yes,Next Day,No,No,12,Debit Card,Annually,2025-08-15
+P00097,C0127,20,Female,Jeans,Clothing,76.63,Texas,L,Red,Winter,3.5,No,Free Shipping,Yes,Yes,5,Cash,Quarterly,2025-10-07
+P00098,C0107,56,Female,T-shirt,Clothing,68.4,Illinois,L,Green,Winter,4.0,No,Express,Yes,Yes,13,Credit Card,Monthly,2025-09-02
+P00099,C0175,68,Female,Dress,Clothing,78.0,Florida,M,Green,Spring,3.0,No,Next Day,No,No,11,Bank Transfer,Quarterly,2025-02-19
+P00100,C0201,32,Female,Raincoat,Outerwear,68.01,Washington,M,Blue,Fall,5.0,Yes,Standard,Yes,No,11,Debit Card,Fortnightly,2025-06-15
+P00101,C0287,33,Female,Hoodie,Outerwear,204.0,Georgia,L,Pink,Summer,4.5,No,Next Day,No,No,37,Credit Card,Monthly,2025-11-21
+P00102,C0173,63,Female,Sneakers,Footwear,102.17,Florida,S,Pink,Spring,4.5,Yes,Free Shipping,Yes,Yes,7,Credit Card,Monthly,2025-04-16
+P00103,C0061,36,Male,Jeans,Clothing,29.0,Florida,M,Blue,Fall,5.0,Yes,Free Shipping,No,No,13,Bank Transfer,Quarterly,2025-12-21
+P00104,C0219,30,Female,Hoodie,Outerwear,63.0,Ohio,One Size,Black,Spring,4.5,No,Standard,No,No,31,Bank Transfer,Weekly,2025-01-24
+P00105,C0022,22,Female,Sandals,Footwear,121.41,Georgia,L,Blue,Summer,4.0,Yes,Standard,Yes,Yes,3,Cash,Monthly,2025-05-01
+P00106,C0340,62,Female,Flats,Footwear,49.49,Georgia,M,Gray,Fall,3.0,Yes,Next Day,Yes,Yes,3,Credit Card,Quarterly,2025-05-08
+P00107,C0309,67,Male,Scarf,Accessories,67.0,Ohio,M,Black,Winter,4.0,No,Express,No,Yes,12,PayPal,Monthly,2025-08-14
+P00108,C0091,22,Male,Skirt,Clothing,20.35,Washington,L,Black,Summer,5.0,No,Free Shipping,Yes,Yes,38,Credit Card,Fortnightly,2025-03-06
+P00109,C0106,60,Female,Sweater,Clothing,38.0,Ohio,M,Gray,Winter,5.0,Yes,Standard,No,No,33,Debit Card,Monthly,2025-03-25
+P00110,C0012,26,Female,Coat,Outerwear,91.0,Georgia,S,Blue,Winter,4.5,Yes,Free Shipping,No,No,37,PayPal,Quarterly,2025-08-30
+P00111,C0146,25,Male,Sunglasses,Accessories,27.27,New York,S,Black,Summer,3.5,Yes,Next Day,Yes,No,34,Bank Transfer,Fortnightly,2025-04-14
+P00112,C0016,38,Male,Jeans,Clothing,72.0,Illinois,L,Black,Spring,3.5,No,Standard,No,No,5,Debit Card,Monthly,2025-11-17
+P00113,C0375,41,Male,Jeans,Clothing,92.0,New York,L,Gray,Fall,5.0,Yes,Standard,No,No,16,Debit Card,Annually,2025-11-14
+P00114,C0054,63,Male,Watch,Accessories,63.96,Illinois,S,White,Spring,3.0,No,Next Day,Yes,No,21,Credit Card,Annually,2025-04-21
+P00115,C0264,55,Male,Shirt,Clothing,78.0,Florida,S,White,Winter,4.0,No,Standard,No,No,7,Debit Card,Weekly,2025-07-24
+P00116,C0229,25,Male,Loafers,Footwear,41.24,Texas,L,Gray,Summer,4.0,Yes,Free Shipping,Yes,Yes,39,Credit Card,Monthly,2025-05-02
+P00117,C0095,48,Female,Boots,Footwear,118.64,Georgia,L,Blue,Winter,3.5,No,Express,Yes,Yes,24,Cash,Weekly,2025-05-06
+P00118,C0324,64,Male,Loafers,Footwear,98.0,Washington,L,Green,Fall,4.5,Yes,Express,No,No,34,Credit Card,Annually,2025-09-02
+P00119,C0044,53,Female,Scarf,Accessories,50.0,Illinois,S,Red,Summer,5.0,Yes,Standard,No,No,11,PayPal,Monthly,2025-04-17
+P00120,C0355,30,Male,Wallet,Accessories,51.26,Georgia,L,Gray,Winter,4.5,Yes,Free Shipping,Yes,No,28,Credit Card,Monthly,2025-02-24
+P00121,C0297,24,Female,Scarf,Accessories,52.41,New York,One Size,Green,Winter,4.0,No,Next Day,Yes,No,5,Debit Card,Fortnightly,2025-04-05
+P00122,C0255,41,Female,Sunglasses,Accessories,81.0,Washington,L,Gray,Winter,4.0,No,Free Shipping,No,No,1,Credit Card,Monthly,2025-12-06
+P00123,C0352,43,Male,Jeans,Clothing,64.0,California,M,Blue,Spring,5.0,No,Free Shipping,No,No,25,Debit Card,Fortnightly,2025-04-05
+P00124,C0162,36,Male,Jeans,Clothing,58.41,California,L,Blue,Summer,4.0,No,Express,Yes,No,3,Debit Card,Quarterly,2025-05-13
+P00125,C0113,23,Female,Shirt,Clothing,78.0,California,M,Green,Winter,4.0,No,Free Shipping,No,No,11,PayPal,Monthly,2025-08-18
+P00126,C0062,24,Other,Scarf,Accessories,29.0,Illinois,S,Black,Winter,4.5,Yes,Express,No,No,31,Bank Transfer,Monthly,2025-02-06
+P00127,C0370,46,Female,T-shirt,Clothing,35.97,Washington,M,Red,Summer,3.5,Yes,Express,Yes,Yes,20,Credit Card,Quarterly,2025-04-08
+P00128,C0161,68,Female,T-shirt,Clothing,54.38,Ohio,XL,Gray,Spring,3.0,No,Standard,Yes,Yes,15,Debit Card,Fortnightly,2025-03-05
+P00129,C0332,49,Male,T-shirt,Clothing,15.59,Florida,M,Brown,Summer,5.0,No,Standard,Yes,Yes,12,Bank Transfer,Fortnightly,2025-12-04
+P00130,C0133,41,Female,Belt,Accessories,34.0,Georgia,XL,Gray,Fall,4.5,No,Next Day,No,No,27,Credit Card,Monthly,2025-12-07
+P00131,C0382,67,Female,Skirt,Clothing,76.0,Texas,L,Pink,Fall,3.5,No,Standard,No,Yes,38,Cash,Quarterly,2025-10-03
+P00132,C0349,54,Male,Coat,Outerwear,215.0,California,L,Green,Winter,3.5,No,Next Day,No,No,29,Bank Transfer,Weekly,2025-04-01
+P00133,C0124,56,Female,Watch,Accessories,48.0,New York,S,Red,Spring,5.0,Yes,Free Shipping,No,No,14,Cash,Quarterly,2025-08-13
+P00134,C0195,48,Female,Sweater,Clothing,48.0,California,L,Blue,Summer,4.5,Yes,Express,No,No,17,Debit Card,Monthly,2025-08-30
+P00135,C0318,58,Female,Wallet,Accessories,43.0,Florida,S,Gray,Summer,4.5,No,Standard,No,No,5,PayPal,Monthly,2025-11-14
+P00136,C0091,44,Male,T-shirt,Clothing,73.0,Florida,M,Brown,Winter,3.0,No,Next Day,No,Yes,6,Debit Card,Monthly,2025-02-27
+P00137,C0010,50,Female,Raincoat,Outerwear,138.0,Ohio,M,White,Spring,5.0,No,Standard,No,No,11,Debit Card,Weekly,2025-09-26
+P00138,C0116,50,Female,Scarf,Accessories,11.0,California,M,Black,Spring,5.0,No,Free Shipping,No,No,16,Bank Transfer,Fortnightly,2025-03-12
+P00139,C0237,57,Male,Loafers,Footwear,75.31,Texas,L,Black,Summer,4.0,No,Express,Yes,No,39,Credit Card,Quarterly,2025-07-27
+P00140,C0055,65,Female,Sweater,Clothing,49.0,Georgia,S,Gray,Spring,3.5,No,Express,No,No,34,Cash,Monthly,2025-11-17
+P00141,C0134,33,Female,Wallet,Accessories,62.0,New York,M,Gray,Fall,4.5,No,Express,No,No,5,Debit Card,Monthly,2025-01-23
+P00142,C0368,55,Male,Sunglasses,Accessories,56.26,Florida,One Size,Black,Fall,4.5,Yes,Express,Yes,No,13,Credit Card,Annually,2025-02-24
+P00143,C0031,19,Male,Jacket,Outerwear,213.0,California,S,Black,Fall,4.5,No,Standard,No,No,3,PayPal,Weekly,2025-10-24
+P00144,C0021,46,Female,Watch,Accessories,41.57,Illinois,M,Gray,Winter,5.0,No,Standard,Yes,No,3,Cash,Monthly,2025-01-07
+P00145,C0170,65,Male,Watch,Accessories,29.26,Georgia,M,Red,Summer,4.5,No,Standard,Yes,Yes,15,Debit Card,Monthly,2025-09-08
+P00146,C0006,52,Male,T-shirt,Clothing,52.0,California,M,Red,Summer,4.0,Yes,Free Shipping,No,No,38,Cash,Weekly,2025-07-02
+P00147,C0012,32,Female,Skirt,Clothing,25.75,Texas,L,White,Summer,4.0,No,Standard,Yes,No,8,Debit Card,Annually,2025-05-07
+P00148,C0074,50,Male,Wallet,Accessories,80.0,Florida,M,Gray,Winter,4.5,No,Standard,No,No,27,Bank Transfer,Annually,2025-11-11
+P00149,C0041,36,Male,Sunglasses,Accessories,73.0,Ohio,M,Gray,Fall,3.5,No,Standard,No,No,16,PayPal,Monthly,2025-11-06
+P00150,C0325,40,Male,Skirt,Clothing,87.0,Georgia,L,Black,Spring,3.5,No,Express,No,No,22,Cash,Annually,2025-04-29
+P00151,C0050,30,Male,Boots,Footwear,60.49,New York,M,Black,Fall,4.5,No,Standard,Yes,No,34,Credit Card,Weekly,2025-01-02
+P00152,C0210,51,Male,Jacket,Outerwear,84.43,Florida,One Size,Green,Fall,4.0,No,Free Shipping,Yes,Yes,33,Debit Card,Annually,2025-02-16
+P00153,C0283,28,Other,Dress,Clothing,66.9,Ohio,One Size,Green,Spring,4.5,No,Standard,Yes,No,33,Bank Transfer,Quarterly,2025-02-09
+P00154,C0251,41,Male,Scarf,Accessories,38.43,New York,S,Blue,Fall,3.0,No,Next Day,Yes,No,17,Credit Card,Fortnightly,2025-12-25
+P00155,C0262,67,Male,Jeans,Clothing,74.0,Ohio,M,Blue,Fall,4.0,Yes,Standard,No,No,2,Debit Card,Monthly,2025-08-06
+P00156,C0144,58,Male,Flats,Footwear,91.0,California,M,Gray,Spring,3.5,No,Express,No,Yes,39,Cash,Quarterly,2025-09-05
+P00157,C0356,39,Male,T-shirt,Clothing,45.88,Illinois,M,Red,Spring,4.5,No,Standard,Yes,Yes,39,PayPal,Monthly,2025-03-26
+P00158,C0028,69,Male,Watch,Accessories,57.0,Georgia,M,Black,Fall,4.5,No,Next Day,No,No,34,Cash,Monthly,2025-11-07
+P00159,C0043,18,Female,Boots,Footwear,134.0,Washington,L,Green,Fall,4.0,Yes,Free Shipping,No,No,19,PayPal,Monthly,2025-09-21
+P00160,C0343,68,Female,Loafers,Footwear,54.13,Georgia,M,Black,Fall,4.0,No,Standard,Yes,Yes,11,Bank Transfer,Fortnightly,2025-10-02
+P00161,C0028,36,Male,Jeans,Clothing,70.79,Illinois,M,Blue,Summer,3.0,No,Free Shipping,Yes,No,7,Debit Card,Weekly,2025-06-20
+P00162,C0077,61,Female,Jacket,Outerwear,83.0,California,M,Gray,Fall,4.5,No,Standard,No,No,15,PayPal,Fortnightly,2025-09-12
+P00163,C0070,68,Male,Skirt,Clothing,49.0,Washington,One Size,Blue,Winter,5.0,Yes,Express,No,No,14,Cash,Quarterly,2025-07-18
+P00164,C0014,49,Male,Dress,Clothing,70.15,Illinois,XL,Black,Spring,4.5,No,Next Day,Yes,Yes,11,PayPal,Monthly,2025-05-21
+P00165,C0047,50,Male,Watch,Accessories,81.0,Texas,S,Pink,Fall,3.5,No,Standard,No,No,38,Credit Card,Monthly,2025-08-05
+P00166,C0230,57,Female,Shirt,Clothing,93.0,New York,L,Blue,Spring,4.5,No,Express,No,No,26,Debit Card,Fortnightly,2025-04-29
+P00167,C0265,30,Male,Loafers,Footwear,67.0,Washington,M,Green,Spring,3.5,No,Standard,No,No,9,Debit Card,Fortnightly,2025-12-14
+P00168,C0034,27,Female,Sandals,Footwear,110.55,Illinois,L,Brown,Winter,2.5,No,Next Day,Yes,Yes,25,PayPal,Quarterly,2025-09-19
+P00169,C0377,36,Male,Jeans,Clothing,82.84,Ohio,L,Pink,Spring,3.5,No,Standard,Yes,Yes,28,Debit Card,Weekly,2025-09-27
+P00170,C0039,43,Female,Hoodie,Outerwear,216.0,California,XL,Brown,Fall,3.0,No,Free Shipping,No,No,21,PayPal,Quarterly,2025-09-19
+P00171,C0275,57,Male,Jeans,Clothing,12.38,Illinois,S,White,Fall,3.5,No,Standard,Yes,Yes,37,Cash,Monthly,2025-06-13
+P00172,C0321,31,Male,Wallet,Accessories,65.0,Ohio,M,Brown,Winter,4.5,No,Free Shipping,No,No,38,Credit Card,Quarterly,2025-12-13
+P00173,C0209,47,Male,Shirt,Clothing,99.0,Georgia,One Size,Black,Fall,3.5,No,Standard,No,No,17,PayPal,Monthly,2025-03-17
+P00174,C0197,18,Male,Jacket,Outerwear,140.22,Georgia,M,White,Fall,4.5,No,Express,Yes,Yes,19,Debit Card,Quarterly,2025-07-27
+P00175,C0044,19,Female,Shirt,Clothing,34.0,California,S,Blue,Winter,5.0,Yes,Standard,No,No,9,Credit Card,Weekly,2025-01-26
+P00176,C0097,69,Female,Dress,Clothing,79.0,California,L,Green,Winter,4.0,Yes,Standard,No,No,31,Debit Card,Quarterly,2025-04-18
+P00177,C0341,63,Female,Scarf,Accessories,17.0,Illinois,L,Pink,Fall,4.0,Yes,Standard,No,No,37,Debit Card,Fortnightly,2025-07-29
+P00178,C0140,63,Other,Jacket,Outerwear,126.0,Florida,L,Brown,Spring,4.5,No,Next Day,No,No,26,Cash,Weekly,2025-06-28
+P00179,C0014,35,Male,Jacket,Outerwear,152.0,California,L,Pink,Spring,3.0,No,Standard,No,No,8,Debit Card,Monthly,2025-12-10
+P00180,C0292,45,Female,Boots,Footwear,86.0,New York,L,Blue,Summer,4.0,No,Express,No,Yes,21,Credit Card,Fortnightly,2025-08-13
+P00181,C0274,53,Female,Hoodie,Outerwear,165.0,California,S,Brown,Fall,4.0,No,Free Shipping,No,No,31,Debit Card,Monthly,2025-05-31
+P00182,C0027,31,Female,Coat,Outerwear,83.0,Texas,L,Gray,Fall,4.5,No,Standard,No,No,2,Cash,Quarterly,2025-06-05
+P00183,C0021,57,Male,Backpack,Accessories,55.0,Washington,L,Red,Winter,4.5,No,Standard,No,No,24,Debit Card,Quarterly,2025-08-12
+P00184,C0047,54,Female,Jeans,Clothing,59.38,New York,XL,Black,Spring,5.0,No,Standard,Yes,Yes,26,Credit Card,Monthly,2025-10-16
+P00185,C0021,39,Female,Loafers,Footwear,98.95,New York,M,Black,Spring,4.5,No,Standard,Yes,Yes,21,Bank Transfer,Annually,2025-04-11
+P00186,C0247,41,Female,Backpack,Accessories,24.87,Texas,S,Pink,Spring,4.0,No,Express,Yes,No,26,Credit Card,Monthly,2025-08-02
+P00187,C0054,34,Female,T-shirt,Clothing,40.0,Ohio,L,White,Fall,4.5,Yes,Next Day,No,No,35,Credit Card,Weekly,2025-07-29
+P00188,C0243,60,Female,Skirt,Clothing,36.0,Georgia,M,Gray,Fall,5.0,Yes,Standard,No,No,5,Debit Card,Quarterly,2025-01-04
+P00189,C0071,70,Female,Flats,Footwear,87.0,Florida,S,Pink,Spring,4.0,No,Standard,No,No,23,PayPal,Fortnightly,2025-11-30
+P00190,C0389,70,Male,T-shirt,Clothing,64.0,New York,XL,Red,Winter,5.0,No,Next Day,No,No,32,Cash,Fortnightly,2025-07-27
+P00191,C0291,58,Male,Coat,Outerwear,105.0,New York,L,Blue,Summer,5.0,Yes,Standard,No,Yes,33,Credit Card,Weekly,2025-03-30
+P00192,C0150,36,Female,Jeans,Clothing,49.0,Ohio,M,Red,Fall,4.0,No,Express,No,No,19,Cash,Monthly,2025-08-20
+P00193,C0172,59,Male,Skirt,Clothing,33.5,Florida,S,Blue,Winter,3.0,Yes,Free Shipping,Yes,No,39,PayPal,Monthly,2025-09-05
+P00194,C0027,30,Male,Flats,Footwear,54.0,New York,S,Blue,Spring,3.5,Yes,Standard,No,No,13,Cash,Monthly,2025-12-01
+P00195,C0022,65,Male,Shirt,Clothing,70.0,Ohio,XL,Brown,Winter,4.5,Yes,Express,No,No,18,Bank Transfer,Monthly,2025-01-13
+P00196,C0216,32,Male,Jeans,Clothing,84.0,Illinois,M,White,Winter,3.0,No,Free Shipping,No,No,33,PayPal,Quarterly,2025-06-01
+P00197,C0010,39,Female,Sunglasses,Accessories,25.11,Texas,S,Gray,Winter,4.0,No,Next Day,Yes,No,18,Credit Card,Annually,2025-03-07
+P00198,C0256,22,Male,Loafers,Footwear,141.0,Florida,M,Gray,Spring,4.5,No,Next Day,No,Yes,14,Credit Card,Weekly,2025-07-29
+P00199,C0153,22,Male,Shirt,Clothing,63.0,California,S,Green,Summer,5.0,No,Free Shipping,No,Yes,22,Bank Transfer,Fortnightly,2025-07-03
+P00200,C0056,38,Male,Sweater,Clothing,29.0,Georgia,S,Green,Spring,5.0,No,Express,No,No,25,Debit Card,Monthly,2025-06-23
+P00201,C0215,47,Female,Sandals,Footwear,74.0,Ohio,M,Blue,Summer,4.5,No,Express,No,No,38,Debit Card,Weekly,2025-12-25
+P00202,C0222,18,Female,Coat,Outerwear,41.0,California,L,Green,Winter,4.0,No,Next Day,No,No,25,Bank Transfer,Monthly,2025-07-14
+P00203,C0299,62,Female,Watch,Accessories,9.62,Washington,M,Brown,Winter,3.0,Yes,Next Day,Yes,Yes,8,Cash,Monthly,2025-05-31
+P00204,C0080,24,Other,Dress,Clothing,43.0,California,M,Blue,Winter,4.5,No,Next Day,No,No,3,PayPal,Quarterly,2025-01-25
+P00205,C0219,70,Male,Sweater,Clothing,53.0,Florida,M,Blue,Summer,3.5,Yes,Standard,No,Yes,38,Cash,Fortnightly,2025-04-16
+P00206,C0338,32,Female,Skirt,Clothing,82.0,Washington,M,Gray,Winter,4.0,No,Free Shipping,No,No,17,Credit Card,Quarterly,2025-11-24
+P00207,C0108,38,Male,Skirt,Clothing,19.84,New York,S,Pink,Winter,5.0,No,Standard,Yes,No,8,PayPal,Monthly,2025-06-14
+P00208,C0335,26,Female,Boots,Footwear,138.0,Washington,S,Red,Winter,4.0,Yes,Standard,No,No,9,Bank Transfer,Quarterly,2025-11-29
+P00209,C0290,61,Female,Sweater,Clothing,34.0,California,S,Brown,Winter,4.5,No,Standard,No,No,5,Credit Card,Monthly,2025-07-14
+P00210,C0172,56,Male,Wallet,Accessories,16.04,Washington,M,Blue,Fall,4.5,No,Standard,Yes,Yes,8,Credit Card,Quarterly,2025-07-20
+P00211,C0354,22,Male,Flats,Footwear,119.0,Florida,L,Green,Spring,4.5,No,Next Day,No,No,31,Cash,Quarterly,2025-06-06
+P00212,C0387,23,Male,Backpack,Accessories,68.0,New York,S,Pink,Summer,4.0,Yes,Standard,No,No,26,Debit Card,Fortnightly,2025-07-23
+P00213,C0095,50,Male,Jeans,Clothing,66.0,Ohio,L,Red,Winter,4.0,Yes,Next Day,No,No,24,Credit Card,Monthly,2025-01-25
+P00214,C0392,63,Male,Sandals,Footwear,40.0,Texas,L,Green,Summer,3.5,No,Express,No,No,1,Credit Card,Quarterly,2025-01-22
+P00215,C0001,23,Male,Sneakers,Footwear,33.4,Georgia,S,Blue,Spring,4.5,No,Standard,Yes,No,27,Credit Card,Fortnightly,2025-06-23
+P00216,C0052,29,Female,Boots,Footwear,77.0,Ohio,S,Green,Winter,3.5,No,Standard,No,No,38,Credit Card,Monthly,2025-08-07
+P00217,C0018,46,Male,T-shirt,Clothing,42.49,California,M,Green,Summer,4.0,Yes,Express,Yes,Yes,37,Cash,Monthly,2025-07-21
+P00218,C0148,23,Male,Shirt,Clothing,99.0,Illinois,S,Pink,Winter,4.5,No,Next Day,No,No,16,PayPal,Quarterly,2025-06-06
+P00219,C0375,34,Female,Coat,Outerwear,91.0,Texas,L,Blue,Summer,2.0,No,Standard,No,No,24,PayPal,Weekly,2025-04-18
+P00220,C0241,18,Female,Shirt,Clothing,31.0,Illinois,S,White,Summer,4.0,No,Standard,No,No,12,Credit Card,Monthly,2025-09-16
+P00221,C0247,44,Female,Jeans,Clothing,77.62,Illinois,XL,Gray,Summer,3.5,Yes,Standard,Yes,Yes,35,Debit Card,Fortnightly,2025-08-09
+P00222,C0034,55,Female,Backpack,Accessories,17.46,Texas,M,Pink,Summer,3.5,No,Standard,Yes,No,36,Credit Card,Monthly,2025-01-18
+P00223,C0207,39,Male,Backpack,Accessories,11.0,Washington,L,Blue,Summer,2.5,No,Standard,No,No,9,Cash,Quarterly,2025-06-15
+P00224,C0154,31,Female,Jacket,Outerwear,116.0,Texas,L,Gray,Summer,3.5,Yes,Free Shipping,No,No,19,Bank Transfer,Monthly,2025-09-17
+P00225,C0192,40,Male,Jeans,Clothing,49.0,Georgia,L,Pink,Winter,5.0,Yes,Standard,No,No,10,Debit Card,Monthly,2025-10-14
+P00226,C0105,45,Female,Jacket,Outerwear,120.87,Georgia,XL,Gray,Summer,5.0,Yes,Standard,Yes,No,24,Bank Transfer,Monthly,2025-04-15
+P00227,C0081,26,Female,T-shirt,Clothing,77.49,California,One Size,Red,Summer,4.5,No,Free Shipping,Yes,No,12,Credit Card,Monthly,2025-12-04
+P00228,C0381,23,Female,Sunglasses,Accessories,79.0,Washington,M,Blue,Winter,4.5,No,Next Day,No,No,28,Credit Card,Quarterly,2025-08-26
+P00229,C0224,27,Female,Backpack,Accessories,26.06,Georgia,S,White,Summer,4.5,No,Express,Yes,Yes,39,PayPal,Fortnightly,2025-06-09
+P00230,C0165,70,Other,Shirt,Clothing,98.0,California,M,Black,Spring,5.0,Yes,Next Day,No,No,34,Debit Card,Quarterly,2025-08-17
+P00231,C0030,56,Female,Jeans,Clothing,68.0,Washington,M,Blue,Spring,4.0,No,Free Shipping,No,No,8,Bank Transfer,Quarterly,2025-11-15
+P00232,C0306,24,Female,Dress,Clothing,17.75,Georgia,L,Red,Summer,2.5,No,Standard,Yes,Yes,6,Credit Card,Quarterly,2025-03-24
+P00233,C0190,33,Female,Raincoat,Outerwear,208.0,California,M,Blue,Fall,4.5,No,Standard,No,No,32,Cash,Fortnightly,2025-02-24
+P00234,C0155,39,Female,Belt,Accessories,15.71,Illinois,M,Black,Winter,5.0,Yes,Free Shipping,Yes,Yes,4,Credit Card,Monthly,2025-06-10
+P00235,C0267,27,Male,Coat,Outerwear,145.0,Ohio,L,Gray,Spring,3.5,No,Free Shipping,No,No,16,Credit Card,Weekly,2025-01-31
+P00236,C0053,63,Male,Loafers,Footwear,131.0,Texas,M,Black,Fall,4.0,No,Free Shipping,No,No,39,Debit Card,Annually,2025-11-02
+P00237,C0214,67,Female,Wallet,Accessories,28.0,California,L,Blue,Summer,4.0,No,Standard,No,No,18,Bank Transfer,Quarterly,2025-12-21
+P00238,C0346,30,Male,Flats,Footwear,46.2,Florida,M,Green,Summer,4.0,No,Free Shipping,Yes,Yes,1,Debit Card,Monthly,2025-08-10
+P00239,C0186,18,Female,Jeans,Clothing,55.0,Texas,L,Pink,Summer,4.5,No,Standard,No,No,39,PayPal,Quarterly,2025-12-24
+P00240,C0001,32,Male,Sweater,Clothing,90.0,Washington,L,Gray,Summer,4.0,No,Next Day,No,No,28,Credit Card,Fortnightly,2025-01-26
+P00241,C0092,48,Male,Flats,Footwear,42.98,Texas,S,Black,Spring,5.0,No,Free Shipping,Yes,Yes,13,Credit Card,Monthly,2025-08-19
+P00242,C0023,60,Female,Sandals,Footwear,89.36,Florida,L,Blue,Spring,4.5,No,Standard,Yes,No,24,Credit Card,Quarterly,2025-06-11
+P00243,C0201,35,Male,T-shirt,Clothing,45.94,Georgia,S,Gray,Fall,2.5,No,Standard,Yes,Yes,24,Cash,Weekly,2025-04-12
+P00244,C0146,32,Male,Backpack,Accessories,18.0,Illinois,L,Gray,Spring,4.5,Yes,Express,No,No,22,Credit Card,Annually,2025-04-24
+P00245,C0053,31,Female,Watch,Accessories,63.0,Georgia,L,Red,Summer,4.5,No,Free Shipping,No,Yes,38,Credit Card,Quarterly,2025-07-18
+P00246,C0275,18,Other,Flats,Footwear,137.0,Washington,M,Pink,Spring,4.0,No,Standard,No,No,31,PayPal,Annually,2025-08-23
+P00247,C0071,18,Male,Sunglasses,Accessories,53.0,Georgia,L,Pink,Spring,4.0,Yes,Free Shipping,No,No,11,Debit Card,Quarterly,2025-03-01
+P00248,C0137,40,Female,Sweater,Clothing,29.0,California,XL,Gray,Spring,4.5,Yes,Standard,No,No,39,Debit Card,Fortnightly,2025-08-13
+P00249,C0396,50,Male,Sweater,Clothing,28.0,Georgia,L,Gray,Summer,4.0,Yes,Standard,No,No,38,Credit Card,Monthly,2025-12-05
+P00250,C0027,18,Male,Scarf,Accessories,41.0,Georgia,L,Brown,Spring,3.5,No,Standard,No,No,2,Debit Card,Fortnightly,2025-01-04
+P00251,C0100,28,Male,Watch,Accessories,47.0,New York,L,Blue,Spring,4.0,No,Free Shipping,No,Yes,12,PayPal,Quarterly,2025-11-17
+P00252,C0128,66,Male,Sneakers,Footwear,82.12,Texas,M,Gray,Summer,3.5,Yes,Standard,Yes,No,24,Credit Card,Fortnightly,2025-08-10
+P00253,C0204,70,Male,Watch,Accessories,28.0,Florida,L,Pink,Summer,4.5,No,Express,No,No,35,PayPal,Quarterly,2025-05-05
+P00254,C0098,52,Male,Skirt,Clothing,57.0,Florida,XL,Blue,Spring,3.5,No,Standard,No,No,28,Credit Card,Fortnightly,2025-09-26
+P00255,C0389,45,Male,Skirt,Clothing,35.54,Ohio,S,Black,Spring,4.5,No,Free Shipping,Yes,No,23,Bank Transfer,Fortnightly,2025-08-14
+P00256,C0003,48,Female,Sneakers,Footwear,117.0,Washington,M,White,Winter,4.0,No,Free Shipping,No,No,12,Bank Transfer,Weekly,2025-10-08
+P00257,C0380,37,Female,Sneakers,Footwear,107.22,California,M,White,Fall,4.5,No,Standard,Yes,No,4,Credit Card,Quarterly,2025-01-30
+P00258,C0214,28,Male,Sweater,Clothing,70.0,Illinois,S,Pink,Spring,4.0,No,Standard,No,No,35,Debit Card,Fortnightly,2025-01-22
+P00259,C0016,37,Male,Skirt,Clothing,15.0,Georgia,M,Red,Summer,5.0,Yes,Standard,No,No,21,Debit Card,Fortnightly,2025-08-23
+P00260,C0047,55,Female,Sunglasses,Accessories,84.0,Florida,M,Gray,Summer,5.0,No,Standard,No,No,18,Cash,Fortnightly,2025-04-21
+P00261,C0042,53,Male,T-shirt,Clothing,14.03,Georgia,L,Pink,Winter,3.5,No,Free Shipping,Yes,Yes,39,Debit Card,Monthly,2025-03-28
+P00262,C0115,53,Male,Sandals,Footwear,131.26,Washington,S,Brown,Winter,4.5,No,Express,Yes,No,7,PayPal,Annually,2025-06-03
+P00263,C0134,50,Male,Jeans,Clothing,15.1,Georgia,M,Gray,Winter,3.5,Yes,Express,Yes,Yes,10,Credit Card,Monthly,2025-09-22
+P00264,C0257,21,Female,Jeans,Clothing,47.91,Georgia,L,Pink,Spring,4.5,Yes,Next Day,Yes,Yes,34,Credit Card,Fortnightly,2025-03-07
+P00265,C0125,51,Male,Raincoat,Outerwear,48.13,New York,M,Gray,Summer,4.5,No,Express,Yes,Yes,12,PayPal,Fortnightly,2025-12-22
+P00266,C0291,64,Female,Jeans,Clothing,18.19,Ohio,M,Blue,Summer,3.5,Yes,Standard,Yes,No,37,PayPal,Weekly,2025-06-03
+P00267,C0118,52,Female,Sweater,Clothing,73.0,California,XL,Gray,Fall,3.5,No,Standard,No,No,34,Cash,Monthly,2025-02-24
+P00268,C0106,48,Male,Jeans,Clothing,63.49,Ohio,One Size,White,Winter,4.0,No,Standard,Yes,Yes,4,Cash,Weekly,2025-01-26
+P00269,C0111,29,Male,Dress,Clothing,19.55,Ohio,L,White,Summer,4.5,Yes,Express,Yes,No,18,PayPal,Weekly,2025-11-09
+P00270,C0132,60,Female,Sweater,Clothing,98.0,Texas,S,Gray,Fall,4.5,Yes,Standard,No,No,30,Debit Card,Weekly,2025-02-11
+P00271,C0336,41,Male,Jeans,Clothing,42.0,New York,S,White,Summer,2.5,No,Express,No,No,20,Bank Transfer,Monthly,2025-06-02
+P00272,C0099,31,Male,T-shirt,Clothing,42.0,Florida,One Size,Black,Spring,3.5,No,Standard,No,No,9,Cash,Quarterly,2025-09-02
+P00273,C0110,43,Female,Sweater,Clothing,40.0,Texas,L,Pink,Summer,4.0,No,Next Day,No,No,2,Cash,Weekly,2025-07-07
+P00274,C0383,24,Female,Wallet,Accessories,44.0,Illinois,L,Green,Fall,4.0,No,Standard,No,No,1,Bank Transfer,Quarterly,2025-04-06
+P00275,C0262,67,Male,Sneakers,Footwear,49.0,New York,L,Gray,Summer,3.0,Yes,Express,No,No,7,Debit Card,Monthly,2025-02-09
+P00276,C0077,55,Male,T-shirt,Clothing,51.0,New York,S,Brown,Fall,4.0,Yes,Standard,No,No,11,PayPal,Quarterly,2025-09-17
+P00277,C0348,35,Female,Skirt,Clothing,32.0,Florida,M,Gray,Fall,5.0,Yes,Standard,No,No,12,PayPal,Fortnightly,2025-06-28
+P00278,C0074,60,Male,Wallet,Accessories,13.0,Ohio,XL,Green,Summer,4.0,No,Standard,No,Yes,34,Credit Card,Quarterly,2025-01-18
+P00279,C0065,20,Male,Sneakers,Footwear,58.56,Texas,XL,Brown,Winter,4.5,No,Express,Yes,Yes,20,PayPal,Quarterly,2025-03-08
+P00280,C0179,38,Male,Sneakers,Footwear,115.0,Texas,M,White,Spring,4.0,No,Free Shipping,No,No,6,Debit Card,Annually,2025-07-25
+P00281,C0277,52,Male,Jeans,Clothing,62.91,California,L,Brown,Winter,4.0,Yes,Standard,Yes,Yes,4,Debit Card,Quarterly,2025-03-03
+P00282,C0076,19,Female,Jeans,Clothing,45.0,Texas,S,Gray,Spring,4.5,No,Next Day,No,No,6,Credit Card,Fortnightly,2025-05-23
+P00283,C0302,55,Female,Sweater,Clothing,37.27,Texas,One Size,Blue,Summer,3.5,No,Express,Yes,Yes,13,PayPal,Annually,2025-02-15
+P00284,C0063,61,Female,Sweater,Clothing,67.86,Texas,M,Blue,Winter,3.5,No,Express,Yes,Yes,29,PayPal,Quarterly,2025-10-18
+P00285,C0313,49,Male,Scarf,Accessories,54.6,Texas,L,Pink,Fall,5.0,No,Express,Yes,Yes,2,Debit Card,Fortnightly,2025-08-19
+P00286,C0039,28,Male,Jeans,Clothing,85.0,Texas,M,Pink,Summer,5.0,Yes,Standard,No,No,16,Credit Card,Fortnightly,2025-10-14
+P00287,C0186,57,Male,Sweater,Clothing,73.4,Washington,L,Pink,Winter,4.5,No,Next Day,Yes,Yes,18,Debit Card,Annually,2025-01-20
+P00288,C0257,35,Female,T-shirt,Clothing,84.0,Texas,L,Black,Spring,3.0,No,Free Shipping,No,Yes,6,Credit Card,Fortnightly,2025-05-18
+P00289,C0107,57,Male,Belt,Accessories,80.0,Ohio,M,Pink,Fall,2.5,No,Free Shipping,No,No,3,Credit Card,Quarterly,2025-04-08
+P00290,C0245,51,Female,Sweater,Clothing,42.63,Illinois,XL,Brown,Fall,3.5,Yes,Standard,Yes,Yes,9,Debit Card,Monthly,2025-08-16
+P00291,C0276,22,Female,Sneakers,Footwear,78.0,Washington,XL,Brown,Spring,5.0,No,Next Day,No,No,6,Cash,Quarterly,2025-10-27
+P00292,C0261,23,Female,Sweater,Clothing,31.61,Illinois,XL,Red,Winter,4.5,No,Standard,Yes,Yes,31,Debit Card,Weekly,2025-03-25
+P00293,C0159,18,Male,Hoodie,Outerwear,64.87,Georgia,M,Green,Winter,4.0,No,Express,Yes,No,36,Debit Card,Quarterly,2025-10-08
+P00294,C0310,21,Female,Sweater,Clothing,78.0,Texas,L,Red,Spring,5.0,Yes,Standard,No,No,25,Cash,Monthly,2025-07-31
+P00295,C0293,33,Male,Boots,Footwear,121.0,Georgia,L,Black,Spring,3.0,No,Standard,No,No,30,Debit Card,Annually,2025-10-28
+P00296,C0131,19,Other,Raincoat,Outerwear,143.01,California,L,Green,Spring,4.0,No,Express,Yes,Yes,30,Cash,Fortnightly,2025-01-30
+P00297,C0294,67,Male,Raincoat,Outerwear,70.0,California,M,Blue,Summer,3.5,No,Free Shipping,No,No,35,Credit Card,Weekly,2025-12-28
+P00298,C0368,66,Female,Sandals,Footwear,74.79,Ohio,L,Blue,Summer,3.5,No,Standard,Yes,Yes,4,Debit Card,Fortnightly,2025-06-08
+P00299,C0327,27,Male,Sandals,Footwear,54.0,Georgia,S,Black,Fall,5.0,Yes,Express,No,No,39,Credit Card,Weekly,2025-04-13
+P00300,C0294,34,Male,Sunglasses,Accessories,76.0,New York,M,Red,Fall,5.0,Yes,Express,No,No,18,Debit Card,Annually,2025-03-08
+P00301,C0307,57,Female,Sandals,Footwear,61.0,Illinois,S,Black,Spring,3.0,No,Free Shipping,No,Yes,22,Bank Transfer,Fortnightly,2025-12-26
+P00302,C0322,53,Male,T-shirt,Clothing,27.0,Illinois,M,Brown,Summer,3.5,No,Next Day,No,No,32,PayPal,Fortnightly,2025-11-19
+P00303,C0116,48,Male,Wallet,Accessories,39.36,California,S,Pink,Winter,4.5,No,Standard,Yes,Yes,20,PayPal,Quarterly,2025-02-17
+P00304,C0289,70,Female,Watch,Accessories,75.0,Illinois,M,Brown,Winter,3.0,No,Standard,No,No,11,Credit Card,Fortnightly,2025-06-12
+P00305,C0080,51,Male,Loafers,Footwear,148.0,Washington,L,White,Summer,4.0,No,Express,No,Yes,1,Bank Transfer,Fortnightly,2025-09-25
+P00306,C0144,53,Female,Backpack,Accessories,17.0,Illinois,L,Blue,Spring,4.0,No,Standard,No,No,7,Debit Card,Quarterly,2025-08-04
+P00307,C0374,44,Female,Skirt,Clothing,34.07,Illinois,S,Green,Spring,3.5,No,Free Shipping,Yes,Yes,4,Credit Card,Monthly,2025-03-10
+P00308,C0114,45,Male,Sunglasses,Accessories,21.0,Georgia,L,Gray,Summer,3.5,No,Free Shipping,No,No,15,Bank Transfer,Quarterly,2025-05-12
+P00309,C0338,33,Female,T-shirt,Clothing,41.0,California,XL,Black,Summer,3.5,Yes,Free Shipping,No,No,31,Debit Card,Monthly,2025-05-15
+P00310,C0170,45,Female,T-shirt,Clothing,50.21,Illinois,XL,Brown,Summer,5.0,No,Standard,Yes,Yes,14,Debit Card,Fortnightly,2025-04-16
+P00311,C0084,66,Female,Wallet,Accessories,25.66,Texas,XL,Red,Spring,4.0,No,Next Day,Yes,Yes,24,Credit Card,Monthly,2025-12-17
+P00312,C0039,37,Female,Sweater,Clothing,20.0,Georgia,One Size,Brown,Summer,4.0,No,Next Day,No,Yes,8,Credit Card,Quarterly,2025-03-16
+P00313,C0220,25,Female,Shirt,Clothing,58.0,Texas,L,Black,Summer,3.5,No,Standard,No,No,24,Cash,Monthly,2025-09-15
+P00314,C0181,49,Male,Shirt,Clothing,16.93,Ohio,One Size,Red,Summer,4.5,No,Standard,Yes,Yes,38,Debit Card,Quarterly,2025-11-29
+P00315,C0205,59,Female,Jeans,Clothing,34.0,Washington,One Size,Red,Spring,3.0,No,Standard,No,No,13,Bank Transfer,Monthly,2025-10-18
+P00316,C0018,68,Female,T-shirt,Clothing,15.0,California,M,Black,Winter,3.0,No,Standard,No,No,19,Credit Card,Monthly,2025-10-19
+P00317,C0108,46,Male,Shirt,Clothing,22.0,Ohio,XL,Gray,Summer,4.5,No,Free Shipping,No,No,38,PayPal,Quarterly,2025-02-27
+P00318,C0002,59,Other,Sneakers,Footwear,83.0,California,XL,Pink,Summer,4.5,Yes,Free Shipping,No,No,24,PayPal,Weekly,2025-02-18
+P00319,C0121,31,Female,Jeans,Clothing,87.0,Texas,L,Green,Winter,3.5,Yes,Standard,No,No,16,PayPal,Monthly,2025-10-13
+P00320,C0373,40,Female,Jacket,Outerwear,179.0,Texas,XL,Red,Fall,4.0,No,Express,No,No,5,Debit Card,Weekly,2025-09-30
+P00321,C0061,40,Female,Jacket,Outerwear,57.0,Washington,M,Gray,Spring,5.0,No,Standard,No,No,37,Debit Card,Quarterly,2025-09-28
+P00322,C0276,35,Female,Watch,Accessories,12.0,Florida,M,White,Spring,3.0,No,Standard,No,No,24,PayPal,Monthly,2025-06-02
+P00323,C0003,55,Female,Jeans,Clothing,43.0,Illinois,L,White,Spring,3.5,No,Standard,No,No,3,Cash,Monthly,2025-07-11
+P00324,C0225,64,Male,Scarf,Accessories,58.0,Illinois,L,Brown,Fall,4.0,No,Next Day,No,Yes,22,Credit Card,Weekly,2025-01-06
+P00325,C0369,35,Male,Sneakers,Footwear,125.0,California,XL,Green,Summer,3.5,No,Next Day,No,No,38,Debit Card,Annually,2025-04-17
+P00326,C0137,25,Female,Wallet,Accessories,57.53,California,XL,White,Summer,4.5,Yes,Free Shipping,Yes,No,37,PayPal,Monthly,2025-07-12
+P00327,C0079,61,Male,Sandals,Footwear,71.0,Texas,L,Red,Fall,4.5,No,Free Shipping,No,No,8,Credit Card,Fortnightly,2025-02-15
+P00328,C0229,63,Female,Wallet,Accessories,22.0,California,One Size,Brown,Fall,4.0,Yes,Standard,No,No,17,Credit Card,Weekly,2025-02-17
+P00329,C0112,67,Female,Wallet,Accessories,11.0,Georgia,S,Green,Spring,4.5,Yes,Next Day,No,No,39,Bank Transfer,Monthly,2025-01-17
+P00330,C0357,31,Female,T-shirt,Clothing,27.0,Florida,One Size,Black,Spring,4.0,Yes,Standard,No,No,31,Credit Card,Fortnightly,2025-03-18
+P00331,C0340,56,Female,Loafers,Footwear,33.0,Florida,S,Brown,Winter,4.5,Yes,Standard,No,No,22,Credit Card,Quarterly,2025-12-29
+P00332,C0261,55,Male,T-shirt,Clothing,88.0,Washington,L,Gray,Winter,2.5,Yes,Express,No,No,12,PayPal,Quarterly,2025-09-12
+P00333,C0256,59,Female,Flats,Footwear,61.0,Ohio,S,White,Winter,4.0,No,Standard,No,No,30,Credit Card,Weekly,2025-12-13
+P00334,C0241,60,Male,Loafers,Footwear,117.1,Washington,L,Pink,Winter,4.5,No,Standard,Yes,No,23,Credit Card,Monthly,2025-04-04
+P00335,C0295,68,Female,Shirt,Clothing,49.59,Illinois,M,Pink,Summer,4.0,Yes,Standard,Yes,Yes,21,Credit Card,Fortnightly,2025-08-07
+P00336,C0185,43,Male,Wallet,Accessories,43.7,Georgia,S,Pink,Winter,3.0,No,Standard,Yes,Yes,37,Credit Card,Weekly,2025-11-22
+P00337,C0388,22,Male,Dress,Clothing,40.34,Georgia,L,Red,Winter,4.0,No,Free Shipping,Yes,Yes,15,Debit Card,Monthly,2025-05-09
+P00338,C0139,28,Female,Boots,Footwear,135.0,California,L,Pink,Winter,4.5,No,Standard,No,Yes,25,Cash,Fortnightly,2025-08-28
+P00339,C0004,64,Female,Jeans,Clothing,18.0,California,S,Brown,Spring,3.0,No,Express,No,No,2,Credit Card,Quarterly,2025-09-10
+P00340,C0280,62,Male,Hoodie,Outerwear,56.0,Florida,L,Brown,Spring,4.5,Yes,Free Shipping,No,No,28,Debit Card,Monthly,2025-10-31
+P00341,C0265,18,Male,Jeans,Clothing,44.09,Ohio,S,Green,Summer,4.5,No,Express,Yes,No,22,PayPal,Fortnightly,2025-12-20
+P00342,C0393,37,Female,Hoodie,Outerwear,111.0,Georgia,S,White,Fall,4.5,No,Standard,No,No,35,Credit Card,Annually,2025-08-13
+P00343,C0159,30,Male,Flats,Footwear,77.54,Washington,S,Blue,Winter,3.5,No,Free Shipping,Yes,Yes,13,Debit Card,Monthly,2025-08-01
+P00344,C0170,34,Female,Belt,Accessories,65.0,Washington,L,Pink,Summer,4.5,No,Standard,No,No,37,Debit Card,Fortnightly,2025-11-14
+P00345,C0225,51,Female,Boots,Footwear,84.16,California,L,Green,Winter,3.5,No,Standard,Yes,Yes,23,Credit Card,Monthly,2025-09-07
+P00346,C0157,45,Male,Flats,Footwear,59.0,Illinois,L,Pink,Winter,5.0,No,Express,No,No,9,Debit Card,Annually,2025-05-13
+P00347,C0314,43,Female,Hoodie,Outerwear,75.53,California,XL,Green,Winter,4.5,No,Express,Yes,Yes,7,Credit Card,Monthly,2025-08-19
+P00348,C0172,41,Female,T-shirt,Clothing,78.0,Illinois,L,Green,Spring,2.5,No,Free Shipping,No,No,8,Cash,Monthly,2025-07-20
+P00349,C0314,52,Female,Backpack,Accessories,25.0,California,XL,Black,Spring,4.5,Yes,Standard,No,No,12,Bank Transfer,Monthly,2025-03-25
+P00350,C0171,54,Female,Sweater,Clothing,57.0,New York,One Size,Red,Spring,4.0,Yes,Express,No,No,22,Cash,Fortnightly,2025-07-08
+P00351,C0091,20,Female,Wallet,Accessories,39.01,Georgia,M,Green,Fall,4.0,Yes,Next Day,Yes,Yes,34,Credit Card,Fortnightly,2025-08-16
+P00352,C0397,25,Female,Shirt,Clothing,78.0,Georgia,S,Black,Fall,4.0,Yes,Free Shipping,No,No,39,PayPal,Monthly,2025-11-26
+P00353,C0211,36,Male,Backpack,Accessories,63.0,Washington,S,Blue,Summer,4.5,No,Standard,No,No,27,Debit Card,Quarterly,2025-07-31
+P00354,C0283,41,Male,Backpack,Accessories,44.0,Washington,L,Green,Spring,4.5,No,Standard,No,No,20,Credit Card,Quarterly,2025-03-02
+P00355,C0237,70,Female,Wallet,Accessories,33.0,California,L,Blue,Fall,5.0,Yes,Free Shipping,No,No,24,Bank Transfer,Weekly,2025-12-27
+P00356,C0144,65,Female,Belt,Accessories,37.0,Illinois,M,Gray,Fall,3.5,Yes,Express,No,No,13,PayPal,Monthly,2025-07-30
+P00357,C0389,52,Male,Loafers,Footwear,65.56,Washington,XL,Red,Summer,4.5,Yes,Standard,Yes,Yes,10,Credit Card,Weekly,2025-04-15
+P00358,C0149,19,Female,Boots,Footwear,45.6,Illinois,One Size,Red,Summer,4.5,No,Standard,Yes,Yes,21,Bank Transfer,Monthly,2025-10-03
+P00359,C0398,23,Female,Belt,Accessories,42.2,Texas,M,Black,Fall,4.5,No,Free Shipping,Yes,No,33,Credit Card,Quarterly,2025-05-21
+P00360,C0173,42,Male,Sunglasses,Accessories,19.8,Florida,M,Red,Fall,4.0,No,Express,Yes,Yes,3,Debit Card,Fortnightly,2025-05-16
+P00361,C0010,49,Female,Jacket,Outerwear,156.0,Ohio,M,Green,Fall,4.0,No,Express,No,No,5,Credit Card,Quarterly,2025-11-03
+P00362,C0015,53,Male,Jeans,Clothing,78.0,Texas,M,Green,Winter,4.5,No,Free Shipping,No,Yes,7,Credit Card,Monthly,2025-11-13
+P00363,C0390,25,Male,Dress,Clothing,96.0,Georgia,XL,White,Summer,3.5,No,Standard,No,No,9,Bank Transfer,Quarterly,2025-07-11
+P00364,C0212,65,Male,Dress,Clothing,25.0,Ohio,L,Black,Fall,3.5,No,Standard,No,No,6,Debit Card,Quarterly,2025-05-17
+P00365,C0156,44,Female,Belt,Accessories,66.0,Georgia,S,Pink,Winter,4.0,No,Express,No,No,6,Credit Card,Quarterly,2025-11-12
+P00366,C0325,49,Female,Sweater,Clothing,22.0,Illinois,M,Pink,Spring,3.5,No,Free Shipping,No,No,2,PayPal,Quarterly,2025-03-05
+P00367,C0247,20,Female,Loafers,Footwear,70.0,California,S,Pink,Summer,2.5,No,Standard,No,No,14,Cash,Quarterly,2025-09-30
+P00368,C0265,61,Male,Boots,Footwear,37.71,New York,M,White,Spring,2.5,No,Next Day,Yes,Yes,29,Bank Transfer,Monthly,2025-08-02
+P00369,C0275,46,Male,Shirt,Clothing,28.0,Illinois,M,Green,Summer,4.5,Yes,Standard,No,No,7,Bank Transfer,Fortnightly,2025-11-08
+P00370,C0080,29,Male,Jacket,Outerwear,71.0,Florida,L,Blue,Spring,5.0,Yes,Standard,No,No,13,Bank Transfer,Fortnightly,2025-06-03
+P00371,C0036,34,Female,Loafers,Footwear,24.45,New York,L,Pink,Fall,4.0,Yes,Free Shipping,Yes,Yes,38,PayPal,Quarterly,2025-10-31
+P00372,C0292,36,Male,Dress,Clothing,84.0,Georgia,XL,Black,Spring,3.0,No,Standard,No,No,7,Credit Card,Weekly,2025-01-06
+P00373,C0009,19,Male,Skirt,Clothing,20.0,Georgia,S,Red,Fall,4.5,No,Standard,No,Yes,39,Bank Transfer,Annually,2025-10-04
+P00374,C0288,67,Male,T-shirt,Clothing,48.0,Texas,L,Brown,Fall,3.5,Yes,Free Shipping,No,Yes,20,Credit Card,Monthly,2025-01-26
+P00375,C0052,60,Male,Jeans,Clothing,74.0,Washington,S,Gray,Winter,5.0,No,Standard,No,No,29,Credit Card,Quarterly,2025-08-23
+P00376,C0106,64,Female,Dress,Clothing,99.0,Florida,M,Brown,Summer,4.0,No,Standard,No,No,13,Debit Card,Monthly,2025-03-13
+P00377,C0284,36,Female,Jacket,Outerwear,151.17,Florida,XL,Red,Summer,3.5,No,Free Shipping,Yes,Yes,13,Credit Card,Annually,2025-12-18
+P00378,C0250,47,Male,Backpack,Accessories,17.04,Illinois,L,Black,Spring,4.0,Yes,Standard,Yes,Yes,16,PayPal,Weekly,2025-10-08
+P00379,C0313,42,Female,Skirt,Clothing,98.0,Florida,S,Black,Fall,4.0,Yes,Next Day,No,Yes,5,Bank Transfer,Monthly,2025-02-08
+P00380,C0245,43,Female,Loafers,Footwear,113.0,Ohio,M,Blue,Spring,4.5,No,Standard,No,No,13,Debit Card,Quarterly,2025-11-22
+P00381,C0020,49,Female,Belt,Accessories,23.0,California,L,Black,Spring,3.0,No,Standard,No,No,35,Debit Card,Fortnightly,2025-04-02
+P00382,C0336,41,Female,Hoodie,Outerwear,120.0,Washington,One Size,Red,Winter,5.0,No,Next Day,No,No,1,Debit Card,Fortnightly,2025-07-19
+P00383,C0087,58,Male,Boots,Footwear,148.0,Georgia,L,Black,Fall,4.5,No,Standard,No,No,23,PayPal,Quarterly,2025-02-01
+P00384,C0055,21,Female,Wallet,Accessories,39.0,Ohio,S,Blue,Spring,5.0,No,Free Shipping,No,No,27,Credit Card,Quarterly,2025-02-08
+P00385,C0352,28,Female,Jeans,Clothing,26.37,New York,M,Red,Fall,5.0,Yes,Free Shipping,Yes,Yes,6,Credit Card,Weekly,2025-03-30
+P00386,C0078,65,Male,Hoodie,Outerwear,172.73,New York,S,Gray,Summer,3.5,No,Free Shipping,Yes,Yes,5,PayPal,Monthly,2025-07-15
+P00387,C0215,64,Male,Sandals,Footwear,117.25,Washington,S,Gray,Spring,4.0,No,Standard,Yes,Yes,22,Debit Card,Fortnightly,2025-07-18
+P00388,C0195,61,Female,Hoodie,Outerwear,183.66,Georgia,L,Black,Summer,5.0,Yes,Standard,Yes,No,9,Debit Card,Fortnightly,2025-11-09
+P00389,C0308,37,Female,Shirt,Clothing,96.0,Ohio,L,Pink,Winter,4.0,No,Free Shipping,No,No,39,Credit Card,Monthly,2025-03-02
+P00390,C0018,42,Female,Flats,Footwear,142.0,Georgia,S,Green,Spring,3.0,Yes,Express,No,No,8,Credit Card,Fortnightly,2025-10-01
+P00391,C0043,19,Female,Sunglasses,Accessories,34.49,California,L,White,Summer,3.5,No,Next Day,Yes,Yes,6,PayPal,Monthly,2025-01-03
+P00392,C0167,32,Female,T-shirt,Clothing,31.0,Illinois,L,Red,Winter,3.5,Yes,Free Shipping,No,No,13,Debit Card,Fortnightly,2025-04-17
+P00393,C0190,56,Female,Backpack,Accessories,56.0,Washington,L,Brown,Summer,5.0,No,Standard,No,No,13,Debit Card,Quarterly,2025-03-05
+P00394,C0316,36,Male,Flats,Footwear,42.68,Illinois,M,Red,Spring,4.0,No,Standard,Yes,Yes,7,Cash,Monthly,2025-02-15
+P00395,C0243,43,Male,Dress,Clothing,46.96,Ohio,M,Blue,Summer,4.5,Yes,Express,Yes,No,26,PayPal,Fortnightly,2025-08-02
+P00396,C0060,24,Male,Backpack,Accessories,48.51,California,S,Red,Fall,5.0,Yes,Express,Yes,Yes,14,Credit Card,Annually,2025-11-25
+P00397,C0392,44,Female,Sneakers,Footwear,152.0,Florida,M,Black,Winter,3.5,No,Standard,No,No,21,PayPal,Quarterly,2025-09-01
+P00398,C0184,56,Female,Dress,Clothing,32.21,Florida,M,Blue,Fall,4.5,Yes,Express,Yes,Yes,10,Credit Card,Fortnightly,2025-11-08
+P00399,C0386,48,Other,Belt,Accessories,24.73,Georgia,M,White,Spring,2.5,No,Free Shipping,Yes,Yes,4,Credit Card,Annually,2025-08-04
+P00400,C0396,47,Male,Watch,Accessories,56.48,California,S,Blue,Winter,3.0,No,Standard,Yes,Yes,3,PayPal,Fortnightly,2025-01-20
+P00401,C0021,66,Male,Dress,Clothing,15.0,Texas,M,White,Winter,3.5,Yes,Standard,No,Yes,3,Credit Card,Fortnightly,2025-05-07
+P00402,C0203,30,Female,Coat,Outerwear,111.85,New York,XL,Black,Fall,4.0,No,Next Day,Yes,No,34,Credit Card,Monthly,2025-10-28
+P00403,C0169,33,Female,Flats,Footwear,125.0,California,L,Green,Winter,4.0,No,Free Shipping,No,No,11,Cash,Fortnightly,2025-01-17
+P00404,C0200,51,Male,Shirt,Clothing,53.79,Georgia,M,Black,Winter,4.0,Yes,Free Shipping,Yes,No,12,PayPal,Quarterly,2025-02-05
+P00405,C0124,43,Male,Raincoat,Outerwear,109.0,Ohio,One Size,Blue,Spring,3.5,Yes,Standard,No,No,23,Bank Transfer,Monthly,2025-11-01
+P00406,C0224,69,Female,Loafers,Footwear,136.0,Texas,M,Pink,Summer,3.0,No,Free Shipping,No,No,4,Cash,Quarterly,2025-01-24
+P00407,C0197,21,Male,T-shirt,Clothing,46.0,Washington,M,Black,Fall,4.5,No,Free Shipping,No,No,24,Credit Card,Fortnightly,2025-12-17
+P00408,C0075,24,Male,Sneakers,Footwear,92.19,Illinois,XL,White,Summer,2.5,No,Next Day,Yes,Yes,21,PayPal,Fortnightly,2025-10-04
+P00409,C0116,36,Male,T-shirt,Clothing,54.0,Georgia,M,Green,Fall,4.5,No,Standard,No,No,31,Debit Card,Monthly,2025-08-31
+P00410,C0059,42,Female,Coat,Outerwear,44.0,Texas,M,White,Fall,5.0,No,Standard,No,No,5,PayPal,Fortnightly,2025-07-15
+P00411,C0338,65,Male,Wallet,Accessories,37.64,Georgia,M,White,Spring,4.5,No,Express,Yes,Yes,1,Credit Card,Annually,2025-02-02
+P00412,C0271,44,Male,Backpack,Accessories,10.66,Texas,L,Blue,Fall,4.5,No,Standard,Yes,Yes,31,Credit Card,Quarterly,2025-06-01
+P00413,C0156,41,Female,Dress,Clothing,94.0,Washington,L,Red,Spring,4.5,No,Standard,No,No,15,Credit Card,Quarterly,2025-10-22
+P00414,C0159,26,Male,Coat,Outerwear,148.0,Florida,M,Brown,Fall,4.5,Yes,Free Shipping,No,No,3,PayPal,Quarterly,2025-11-26
+P00415,C0032,41,Male,Sweater,Clothing,36.74,Washington,M,Green,Summer,5.0,No,Standard,Yes,Yes,22,Credit Card,Fortnightly,2025-06-13
+P00416,C0116,46,Male,Jeans,Clothing,48.85,Texas,M,Pink,Spring,5.0,No,Free Shipping,Yes,Yes,19,Debit Card,Fortnightly,2025-11-03
+P00417,C0370,48,Female,T-shirt,Clothing,67.0,Ohio,L,Gray,Winter,4.0,No,Express,No,No,38,Cash,Monthly,2025-10-11
+P00418,C0013,50,Male,Boots,Footwear,60.0,Washington,M,Brown,Summer,4.5,No,Free Shipping,No,No,37,PayPal,Quarterly,2025-01-22
+P00419,C0059,40,Female,Dress,Clothing,39.0,Texas,XL,Red,Spring,4.5,No,Standard,No,No,22,Debit Card,Monthly,2025-08-15
+P00420,C0339,26,Female,Jacket,Outerwear,115.0,Georgia,L,Green,Summer,2.0,No,Express,No,No,7,Credit Card,Weekly,2025-08-13
+P00421,C0209,26,Female,Sunglasses,Accessories,29.0,Washington,M,Green,Winter,4.0,No,Express,No,No,30,Bank Transfer,Quarterly,2025-07-18
+P00422,C0013,26,Female,Jeans,Clothing,61.16,Florida,L,Brown,Spring,4.5,No,Free Shipping,Yes,Yes,8,Debit Card,Fortnightly,2025-10-09
+P00423,C0196,50,Female,Skirt,Clothing,23.0,California,S,Green,Summer,4.5,No,Standard,No,No,33,Debit Card,Monthly,2025-11-21
+P00424,C0300,63,Male,Jeans,Clothing,74.97,Georgia,M,Red,Summer,4.0,No,Standard,Yes,Yes,24,Bank Transfer,Weekly,2025-07-20
+P00425,C0139,64,Male,Watch,Accessories,29.56,Ohio,M,Black,Winter,3.5,Yes,Free Shipping,Yes,Yes,14,Credit Card,Monthly,2025-04-27
+P00426,C0153,34,Female,Sneakers,Footwear,80.12,Washington,M,Brown,Spring,3.5,No,Standard,Yes,Yes,39,Debit Card,Monthly,2025-12-25
+P00427,C0253,22,Other,Dress,Clothing,21.91,Ohio,L,Red,Spring,4.0,No,Express,Yes,Yes,21,Credit Card,Quarterly,2025-12-18
+P00428,C0240,51,Female,Loafers,Footwear,77.0,Illinois,One Size,Brown,Fall,5.0,No,Standard,No,No,16,Credit Card,Quarterly,2025-09-08
+P00429,C0362,20,Male,Sweater,Clothing,67.74,California,M,Gray,Spring,5.0,No,Standard,Yes,Yes,8,Debit Card,Weekly,2025-08-22
+P00430,C0100,51,Male,Loafers,Footwear,61.0,California,M,Black,Fall,4.0,No,Express,No,No,26,PayPal,Quarterly,2025-02-08
+P00431,C0111,38,Male,Coat,Outerwear,63.0,New York,L,Gray,Summer,3.5,No,Express,No,No,11,Credit Card,Quarterly,2025-05-27
+P00432,C0063,62,Male,Sandals,Footwear,95.0,New York,M,Red,Fall,4.5,No,Express,No,No,6,PayPal,Quarterly,2025-03-14
+P00433,C0266,51,Male,Sandals,Footwear,46.0,Washington,S,Blue,Spring,4.5,Yes,Express,No,No,5,Cash,Annually,2025-07-07
+P00434,C0214,57,Female,Sandals,Footwear,67.0,Ohio,One Size,White,Fall,4.0,No,Next Day,No,Yes,26,Cash,Quarterly,2025-10-29
+P00435,C0139,39,Female,Sweater,Clothing,53.0,California,XL,Gray,Fall,4.0,No,Free Shipping,No,No,36,Credit Card,Fortnightly,2025-03-23
+P00436,C0279,62,Female,T-shirt,Clothing,47.93,Illinois,One Size,Black,Spring,3.0,No,Standard,Yes,Yes,10,PayPal,Monthly,2025-12-30
+P00437,C0151,45,Female,Jeans,Clothing,69.0,New York,M,Green,Summer,4.5,No,Standard,No,No,9,Credit Card,Monthly,2025-02-17
+P00438,C0079,51,Female,Watch,Accessories,60.0,Florida,S,Brown,Spring,4.5,No,Standard,No,No,24,PayPal,Monthly,2025-02-05
+P00439,C0216,37,Female,Boots,Footwear,116.58,Ohio,M,Black,Spring,4.0,No,Free Shipping,Yes,Yes,6,Debit Card,Annually,2025-12-22
+P00440,C0175,41,Male,Scarf,Accessories,10.89,Ohio,One Size,Black,Fall,5.0,No,Standard,Yes,Yes,4,PayPal,Monthly,2025-02-06
+P00441,C0163,62,Male,Sandals,Footwear,64.15,Georgia,S,Black,Summer,4.5,No,Next Day,Yes,No,25,Credit Card,Monthly,2025-09-26
+P00442,C0178,38,Male,Dress,Clothing,15.0,Texas,S,Gray,Winter,5.0,No,Express,No,No,21,PayPal,Annually,2025-10-06
+P00443,C0366,19,Male,Sandals,Footwear,26.0,Georgia,S,Brown,Summer,4.0,Yes,Express,No,No,2,Credit Card,Quarterly,2025-05-01
+P00444,C0087,38,Female,Skirt,Clothing,29.62,Ohio,L,Pink,Fall,4.0,Yes,Free Shipping,Yes,Yes,10,Credit Card,Fortnightly,2025-01-24
+P00445,C0111,38,Female,T-shirt,Clothing,65.0,Texas,L,Black,Fall,5.0,Yes,Express,No,No,8,PayPal,Annually,2025-04-23
+P00446,C0227,40,Male,Flats,Footwear,145.0,Texas,L,Red,Fall,5.0,No,Express,No,No,27,Credit Card,Monthly,2025-01-26
+P00447,C0019,21,Male,Jacket,Outerwear,150.23,New York,S,Black,Winter,5.0,Yes,Standard,Yes,Yes,26,PayPal,Monthly,2025-09-03
+P00448,C0059,24,Female,Scarf,Accessories,58.0,Georgia,L,White,Fall,4.5,No,Express,No,Yes,30,PayPal,Monthly,2025-11-21
+P00449,C0227,35,Female,Jeans,Clothing,68.72,California,M,White,Fall,4.0,No,Standard,Yes,No,4,PayPal,Annually,2025-12-30
+P00450,C0204,40,Female,Belt,Accessories,22.0,Texas,S,Green,Fall,3.5,No,Free Shipping,No,No,34,PayPal,Fortnightly,2025-10-20
+P00451,C0262,19,Female,Sweater,Clothing,86.0,Florida,M,Pink,Summer,4.0,No,Standard,No,No,9,Cash,Monthly,2025-10-10
+P00452,C0046,38,Female,Hoodie,Outerwear,172.25,California,L,Brown,Fall,5.0,No,Standard,Yes,No,39,Bank Transfer,Quarterly,2025-11-18
+P00453,C0342,34,Female,Boots,Footwear,37.0,Ohio,M,Black,Winter,4.0,Yes,Standard,No,No,35,Credit Card,Quarterly,2025-10-09
+P00454,C0195,19,Male,Jeans,Clothing,54.0,Washington,One Size,Blue,Fall,4.5,No,Express,No,No,18,Debit Card,Weekly,2025-08-26
+P00455,C0063,31,Male,Jeans,Clothing,85.0,California,M,White,Fall,5.0,No,Free Shipping,No,Yes,31,PayPal,Fortnightly,2025-12-30
+P00456,C0125,32,Male,T-shirt,Clothing,55.0,California,M,White,Spring,5.0,No,Standard,No,No,27,Credit Card,Annually,2025-04-28
+P00457,C0091,25,Male,Coat,Outerwear,191.0,New York,L,White,Summer,5.0,No,Standard,No,No,31,Credit Card,Quarterly,2025-05-31
+P00458,C0181,57,Male,Scarf,Accessories,62.92,Georgia,L,Green,Spring,4.0,Yes,Standard,Yes,Yes,1,Credit Card,Monthly,2025-11-27
+P00459,C0188,21,Female,Boots,Footwear,89.0,Florida,S,Gray,Spring,4.0,No,Free Shipping,No,Yes,4,Debit Card,Monthly,2025-04-24
+P00460,C0174,48,Male,Sunglasses,Accessories,14.0,Washington,L,Pink,Summer,5.0,Yes,Free Shipping,No,No,36,Debit Card,Monthly,2025-04-20
+P00461,C0185,53,Female,Backpack,Accessories,35.0,California,M,Gray,Summer,3.5,No,Standard,No,No,31,PayPal,Quarterly,2025-02-25
+P00462,C0364,60,Male,Dress,Clothing,33.0,California,M,White,Fall,3.5,Yes,Express,No,Yes,25,PayPal,Monthly,2025-04-11
+P00463,C0384,46,Female,Hoodie,Outerwear,125.0,Illinois,L,Blue,Winter,5.0,No,Free Shipping,No,No,13,PayPal,Quarterly,2025-08-05
+P00464,C0196,46,Male,Skirt,Clothing,50.34,California,L,Red,Winter,4.5,Yes,Free Shipping,Yes,Yes,17,Credit Card,Weekly,2025-11-20
+P00465,C0386,58,Male,Wallet,Accessories,44.0,Illinois,M,Brown,Summer,4.0,Yes,Express,No,No,16,PayPal,Quarterly,2025-02-19
+P00466,C0328,63,Female,Flats,Footwear,38.32,Georgia,S,Pink,Summer,3.0,Yes,Next Day,Yes,Yes,17,PayPal,Weekly,2025-09-06
+P00467,C0328,29,Female,Watch,Accessories,32.0,Texas,L,Red,Fall,4.0,No,Express,No,No,25,Credit Card,Quarterly,2025-10-07
+P00468,C0091,60,Female,Hoodie,Outerwear,162.0,Illinois,M,Blue,Summer,5.0,Yes,Standard,No,No,30,Credit Card,Weekly,2025-11-23
+P00469,C0176,42,Male,T-shirt,Clothing,17.0,Georgia,XL,Black,Winter,4.5,No,Standard,No,No,15,Credit Card,Fortnightly,2025-10-01
+P00470,C0141,23,Male,Backpack,Accessories,26.0,Georgia,L,Black,Winter,4.0,No,Standard,No,Yes,33,Bank Transfer,Fortnightly,2025-02-26
+P00471,C0039,50,Female,Dress,Clothing,75.96,New York,XL,Gray,Fall,4.0,No,Standard,Yes,Yes,4,Credit Card,Fortnightly,2025-06-28
+P00472,C0031,69,Male,Belt,Accessories,17.0,New York,M,Green,Spring,5.0,Yes,Standard,No,Yes,32,Credit Card,Monthly,2025-12-14
+P00473,C0249,25,Female,Shirt,Clothing,50.0,Georgia,XL,Gray,Fall,5.0,No,Free Shipping,No,No,27,Credit Card,Quarterly,2025-11-28
+P00474,C0169,18,Female,Dress,Clothing,28.19,Georgia,S,Black,Winter,4.0,No,Free Shipping,Yes,No,20,Credit Card,Quarterly,2025-08-12
+P00475,C0331,66,Female,T-shirt,Clothing,19.26,Texas,M,Red,Spring,4.5,Yes,Standard,Yes,Yes,15,Debit Card,Monthly,2025-12-18
+P00476,C0268,49,Male,T-shirt,Clothing,40.59,Illinois,S,Blue,Spring,3.5,Yes,Standard,Yes,No,15,Cash,Monthly,2025-09-01
+P00477,C0035,29,Female,Wallet,Accessories,49.0,Illinois,S,White,Fall,4.0,Yes,Next Day,No,Yes,15,Debit Card,Monthly,2025-01-24
+P00478,C0336,60,Female,Scarf,Accessories,23.0,Washington,XL,Green,Summer,3.5,No,Express,No,Yes,37,Cash,Quarterly,2025-11-30
+P00479,C0199,38,Female,Sunglasses,Accessories,15.0,Ohio,L,White,Fall,4.0,Yes,Standard,No,No,2,Credit Card,Weekly,2025-03-03
+P00480,C0227,35,Male,Skirt,Clothing,23.06,Texas,L,Gray,Summer,4.0,No,Free Shipping,Yes,No,25,Debit Card,Monthly,2025-05-19
+P00481,C0387,33,Male,Dress,Clothing,70.0,Georgia,L,White,Winter,4.0,No,Standard,No,Yes,39,Cash,Weekly,2025-03-28
+P00482,C0257,49,Male,Sweater,Clothing,68.96,New York,L,Green,Summer,3.5,Yes,Standard,Yes,Yes,22,PayPal,Fortnightly,2025-09-20
+P00483,C0009,25,Male,Wallet,Accessories,23.0,New York,L,Red,Summer,3.5,No,Next Day,No,No,25,Cash,Monthly,2025-01-11
+P00484,C0071,37,Male,Shirt,Clothing,32.51,Georgia,XL,Red,Spring,3.0,Yes,Express,Yes,Yes,24,Credit Card,Fortnightly,2025-08-22
+P00485,C0171,34,Female,T-shirt,Clothing,44.0,California,L,Blue,Spring,4.5,Yes,Standard,No,No,20,Debit Card,Weekly,2025-11-12
+P00486,C0015,21,Male,Sweater,Clothing,45.0,Georgia,L,Green,Spring,3.5,Yes,Next Day,No,Yes,25,PayPal,Quarterly,2025-10-15
+P00487,C0067,58,Female,Wallet,Accessories,23.66,Texas,M,Pink,Winter,3.0,Yes,Free Shipping,Yes,Yes,36,Credit Card,Weekly,2025-04-23
+P00488,C0317,18,Female,Jeans,Clothing,19.0,Texas,One Size,Gray,Summer,5.0,Yes,Standard,No,No,28,Cash,Monthly,2025-11-24
+P00489,C0058,68,Female,Sunglasses,Accessories,49.0,New York,S,Gray,Spring,3.5,No,Express,No,No,34,Credit Card,Monthly,2025-05-13
+P00490,C0067,23,Female,Backpack,Accessories,27.56,Georgia,M,Brown,Summer,5.0,No,Standard,Yes,Yes,22,Credit Card,Quarterly,2025-09-06
+P00491,C0202,36,Male,Flats,Footwear,53.32,Texas,XL,Black,Fall,4.5,No,Express,Yes,No,31,PayPal,Quarterly,2025-07-04
+P00492,C0037,23,Other,Backpack,Accessories,29.0,California,M,Brown,Winter,4.5,Yes,Express,No,No,35,PayPal,Weekly,2025-01-25
+P00493,C0103,37,Male,Wallet,Accessories,67.59,Florida,S,Blue,Winter,4.0,No,Standard,Yes,Yes,9,Cash,Quarterly,2025-01-02
+P00494,C0376,50,Female,Shirt,Clothing,53.02,California,M,Gray,Spring,3.5,No,Standard,Yes,Yes,34,Cash,Monthly,2025-03-08
+P00495,C0253,22,Male,Sandals,Footwear,81.0,Ohio,M,Pink,Winter,5.0,Yes,Free Shipping,No,No,27,Credit Card,Fortnightly,2025-12-08
+P00496,C0386,45,Male,Sunglasses,Accessories,25.0,New York,One Size,Pink,Summer,4.5,No,Standard,No,Yes,18,PayPal,Quarterly,2025-12-15
+P00497,C0142,58,Female,Scarf,Accessories,54.27,Florida,XL,Red,Winter,4.0,Yes,Free Shipping,Yes,Yes,31,Bank Transfer,Quarterly,2025-05-30
+P00498,C0247,42,Male,Backpack,Accessories,62.37,Florida,M,Brown,Spring,4.5,No,Standard,Yes,Yes,7,Credit Card,Monthly,2025-12-20
+P00499,C0096,23,Male,Skirt,Clothing,17.0,New York,One Size,Green,Fall,4.0,No,Free Shipping,No,No,28,Debit Card,Monthly,2025-01-19
+P00500,C0152,54,Female,Sunglasses,Accessories,79.0,New York,L,Blue,Winter,5.0,No,Express,No,No,23,Bank Transfer,Fortnightly,2025-12-20
+P00501,C0070,27,Male,Loafers,Footwear,119.0,Illinois,XL,Blue,Spring,4.5,No,Standard,No,No,35,Credit Card,Monthly,2025-03-26
+P00502,C0334,18,Male,Hoodie,Outerwear,57.0,Florida,M,Pink,Winter,2.5,No,Next Day,No,No,25,Bank Transfer,Annually,2025-01-14
+P00503,C0074,41,Female,Jacket,Outerwear,175.0,California,M,Pink,Spring,5.0,Yes,Free Shipping,No,No,21,Debit Card,Monthly,2025-10-04
+P00504,C0082,32,Female,Watch,Accessories,18.0,California,S,Pink,Winter,5.0,No,Express,No,No,21,Cash,Annually,2025-05-20
+P00505,C0186,19,Male,Sunglasses,Accessories,9.84,Ohio,S,Red,Fall,4.5,Yes,Express,Yes,Yes,22,PayPal,Fortnightly,2025-04-17
+P00506,C0172,59,Male,Loafers,Footwear,40.0,Washington,L,White,Winter,3.0,Yes,Express,No,No,35,PayPal,Quarterly,2025-10-05
+P00507,C0126,49,Male,Dress,Clothing,54.0,Illinois,S,Brown,Winter,4.5,Yes,Express,No,No,31,PayPal,Annually,2025-05-02
+P00508,C0143,66,Male,Flats,Footwear,91.54,Ohio,L,Black,Summer,4.5,No,Express,Yes,Yes,4,Credit Card,Quarterly,2025-10-02
+P00509,C0119,43,Male,Sunglasses,Accessories,34.21,New York,L,Pink,Summer,4.0,No,Next Day,Yes,Yes,21,PayPal,Weekly,2025-03-13
+P00510,C0366,41,Male,Sweater,Clothing,25.0,Washington,S,Green,Fall,5.0,No,Standard,No,No,12,Bank Transfer,Monthly,2025-02-01
+P00511,C0233,62,Male,Skirt,Clothing,24.34,Ohio,M,Gray,Spring,4.0,No,Express,Yes,Yes,7,Bank Transfer,Weekly,2025-04-29
+P00512,C0368,22,Male,Boots,Footwear,116.17,California,L,Red,Summer,5.0,Yes,Express,Yes,No,34,Bank Transfer,Monthly,2025-08-11
+P00513,C0395,37,Female,Shirt,Clothing,74.94,Illinois,XL,Pink,Spring,4.5,No,Free Shipping,Yes,No,34,PayPal,Annually,2025-03-24
+P00514,C0261,60,Male,Jeans,Clothing,79.0,Ohio,M,Gray,Winter,3.5,Yes,Standard,No,Yes,37,PayPal,Monthly,2025-02-22
+P00515,C0331,33,Male,Jeans,Clothing,23.0,Illinois,One Size,Black,Spring,5.0,No,Standard,No,No,16,Debit Card,Fortnightly,2025-10-01
+P00516,C0045,64,Male,Sweater,Clothing,84.0,California,XL,Green,Summer,4.0,Yes,Standard,No,No,17,PayPal,Fortnightly,2025-06-30
+P00517,C0380,33,Male,Skirt,Clothing,60.3,Washington,L,Brown,Summer,4.0,No,Next Day,Yes,No,31,PayPal,Monthly,2025-06-07
+P00518,C0193,39,Male,Flats,Footwear,79.01,Ohio,M,Black,Summer,4.0,No,Express,Yes,Yes,8,Credit Card,Monthly,2025-03-29
+P00519,C0286,65,Female,Skirt,Clothing,27.0,New York,L,Gray,Winter,3.0,No,Standard,No,Yes,3,Credit Card,Fortnightly,2025-01-07
+P00520,C0099,30,Female,Sandals,Footwear,129.68,Illinois,XL,Blue,Winter,4.5,Yes,Standard,Yes,Yes,17,PayPal,Quarterly,2025-01-20
+P00521,C0039,69,Female,Loafers,Footwear,84.0,Illinois,M,Green,Fall,4.0,Yes,Free Shipping,No,No,25,Credit Card,Weekly,2025-09-06
+P00522,C0354,20,Female,Shirt,Clothing,15.77,Texas,One Size,Pink,Winter,5.0,No,Express,Yes,No,18,Credit Card,Monthly,2025-01-30
+P00523,C0180,32,Female,Dress,Clothing,28.22,New York,XL,Red,Spring,5.0,No,Express,Yes,Yes,9,Credit Card,Monthly,2025-04-01
+P00524,C0056,49,Female,Scarf,Accessories,33.78,New York,M,Black,Winter,4.5,Yes,Standard,Yes,Yes,21,Cash,Fortnightly,2025-11-29
+P00525,C0264,49,Female,Shirt,Clothing,20.0,Ohio,L,Black,Spring,3.5,No,Standard,No,No,37,Bank Transfer,Monthly,2025-05-06
+P00526,C0022,66,Female,T-shirt,Clothing,42.0,Ohio,L,Gray,Spring,4.5,No,Standard,No,No,11,PayPal,Quarterly,2025-09-29
+P00527,C0181,68,Male,Hoodie,Outerwear,124.0,Florida,L,Pink,Spring,2.5,No,Standard,No,No,16,Bank Transfer,Monthly,2025-05-06
+P00528,C0282,53,Male,Hoodie,Outerwear,167.65,Georgia,XL,White,Spring,4.5,No,Express,Yes,No,13,Cash,Quarterly,2025-12-07
+P00529,C0289,52,Female,Sandals,Footwear,36.0,Georgia,S,Pink,Winter,4.0,No,Standard,No,No,12,Credit Card,Monthly,2025-10-27
+P00530,C0182,34,Female,Sweater,Clothing,64.0,Washington,S,Red,Summer,5.0,No,Standard,No,No,26,Credit Card,Fortnightly,2025-06-21
+P00531,C0148,60,Female,Loafers,Footwear,111.17,Illinois,M,Black,Winter,4.0,Yes,Standard,Yes,No,15,Credit Card,Annually,2025-09-07
+P00532,C0336,52,Female,Loafers,Footwear,133.0,Georgia,XL,Green,Summer,3.5,No,Standard,No,No,25,Credit Card,Annually,2025-05-31
+P00533,C0074,19,Female,Skirt,Clothing,70.4,Illinois,M,Pink,Spring,5.0,No,Standard,Yes,Yes,1,Debit Card,Weekly,2025-12-11
+P00534,C0030,62,Female,Sunglasses,Accessories,22.0,Georgia,XL,White,Summer,4.0,Yes,Standard,No,No,26,Credit Card,Annually,2025-05-11
+P00535,C0063,37,Female,Sweater,Clothing,69.91,Georgia,M,Pink,Spring,5.0,Yes,Standard,Yes,No,5,Bank Transfer,Quarterly,2025-11-02
+P00536,C0321,43,Male,Sweater,Clothing,98.0,California,M,Gray,Summer,5.0,No,Next Day,No,No,15,PayPal,Weekly,2025-08-13
+P00537,C0188,43,Male,Scarf,Accessories,34.0,Washington,XL,Red,Fall,4.0,No,Free Shipping,No,No,35,Debit Card,Monthly,2025-08-23
+P00538,C0015,61,Male,Skirt,Clothing,44.38,Washington,L,Gray,Winter,4.0,No,Express,Yes,Yes,14,Bank Transfer,Weekly,2025-05-09
+P00539,C0068,32,Female,Jeans,Clothing,60.0,Ohio,M,Red,Fall,4.0,No,Standard,No,No,28,Bank Transfer,Monthly,2025-10-31
+P00540,C0012,38,Female,Loafers,Footwear,91.0,Texas,S,Black,Spring,5.0,No,Free Shipping,No,No,14,PayPal,Annually,2025-09-30
+P00541,C0326,20,Male,Raincoat,Outerwear,72.32,Ohio,S,Brown,Fall,5.0,Yes,Free Shipping,Yes,Yes,36,Cash,Monthly,2025-10-25
+P00542,C0185,36,Female,Watch,Accessories,82.0,Florida,S,White,Fall,4.0,No,Express,No,No,38,Bank Transfer,Monthly,2025-10-20
+P00543,C0028,22,Male,Sandals,Footwear,154.0,Florida,M,Green,Spring,4.5,No,Standard,No,Yes,36,PayPal,Fortnightly,2025-02-27
+P00544,C0089,48,Other,Jacket,Outerwear,108.0,California,L,Gray,Winter,3.5,Yes,Next Day,No,No,16,Cash,Monthly,2025-11-16
+P00545,C0247,65,Male,Dress,Clothing,83.0,Texas,M,Black,Winter,4.5,Yes,Free Shipping,No,No,13,Credit Card,Quarterly,2025-11-04
+P00546,C0238,42,Female,Wallet,Accessories,35.09,Georgia,S,Gray,Fall,4.5,No,Free Shipping,Yes,No,24,Debit Card,Fortnightly,2025-03-30
+P00547,C0328,66,Male,Skirt,Clothing,82.0,Washington,M,White,Summer,5.0,No,Express,No,No,32,Debit Card,Monthly,2025-12-25
+P00548,C0011,69,Female,Skirt,Clothing,64.0,Washington,M,Green,Summer,4.0,No,Express,No,No,21,Credit Card,Monthly,2025-07-12
+P00549,C0028,20,Female,Loafers,Footwear,68.1,Georgia,One Size,Red,Summer,4.0,No,Free Shipping,Yes,No,29,Credit Card,Quarterly,2025-04-28
+P00550,C0015,45,Female,Sunglasses,Accessories,17.04,Texas,M,Brown,Spring,3.5,No,Standard,Yes,Yes,35,Credit Card,Quarterly,2025-03-23
+P00551,C0158,45,Male,Backpack,Accessories,59.0,Washington,S,Blue,Summer,3.0,No,Standard,No,No,30,Credit Card,Quarterly,2025-05-14
+P00552,C0291,38,Male,Jeans,Clothing,34.16,Texas,L,Black,Spring,4.0,Yes,Free Shipping,Yes,Yes,15,Credit Card,Monthly,2025-01-14
+P00553,C0266,62,Female,Skirt,Clothing,33.0,Ohio,XL,Red,Spring,5.0,Yes,Standard,No,No,10,Debit Card,Monthly,2025-09-10
+P00554,C0085,38,Female,Hoodie,Outerwear,74.0,Florida,L,Black,Fall,4.0,No,Standard,No,No,17,Cash,Quarterly,2025-09-16
+P00555,C0263,20,Male,Jeans,Clothing,85.51,Ohio,XL,Blue,Spring,4.0,No,Standard,Yes,Yes,23,PayPal,Quarterly,2025-09-01
+P00556,C0263,47,Male,Jeans,Clothing,23.0,Washington,XL,Gray,Summer,4.5,No,Standard,No,No,33,PayPal,Monthly,2025-07-20
+P00557,C0077,28,Female,Jeans,Clothing,82.0,Ohio,L,Brown,Summer,3.5,No,Standard,No,No,12,Credit Card,Quarterly,2025-05-13
+P00558,C0300,36,Female,Backpack,Accessories,74.0,Georgia,One Size,Gray,Spring,3.5,No,Express,No,No,7,Cash,Fortnightly,2025-09-22
+P00559,C0169,44,Male,Backpack,Accessories,10.08,Ohio,S,White,Winter,5.0,No,Standard,Yes,Yes,13,Credit Card,Weekly,2025-11-15
+P00560,C0024,56,Male,Belt,Accessories,40.95,Texas,XL,Brown,Winter,3.0,No,Express,Yes,Yes,24,Credit Card,Annually,2025-02-01
+P00561,C0157,32,Male,Sweater,Clothing,64.0,Illinois,XL,Red,Fall,4.0,Yes,Standard,No,No,10,Debit Card,Weekly,2025-05-20
+P00562,C0308,38,Female,Shirt,Clothing,34.84,Florida,XL,Blue,Fall,4.0,No,Free Shipping,Yes,Yes,16,Bank Transfer,Annually,2025-12-30
+P00563,C0279,21,Female,Sneakers,Footwear,115.0,New York,M,Brown,Spring,3.5,No,Express,No,No,11,Bank Transfer,Monthly,2025-11-11
+P00564,C0108,38,Female,Scarf,Accessories,30.87,Illinois,L,Green,Winter,3.5,No,Free Shipping,Yes,No,39,Cash,Annually,2025-12-29
+P00565,C0303,48,Female,Scarf,Accessories,42.0,Florida,M,White,Winter,3.5,No,Standard,No,Yes,20,PayPal,Monthly,2025-03-08
+P00566,C0156,50,Male,Loafers,Footwear,83.0,Florida,L,Gray,Summer,4.0,No,Standard,No,No,29,Debit Card,Quarterly,2025-06-19
+P00567,C0185,33,Female,Sandals,Footwear,133.0,New York,M,Gray,Fall,5.0,Yes,Free Shipping,No,No,21,PayPal,Quarterly,2025-02-17
+P00568,C0035,21,Male,Skirt,Clothing,68.0,Illinois,L,Blue,Winter,4.0,No,Free Shipping,No,No,1,Credit Card,Monthly,2025-11-13
+P00569,C0399,48,Male,Skirt,Clothing,37.2,Illinois,L,Black,Fall,4.0,Yes,Standard,Yes,No,11,Credit Card,Monthly,2025-07-09
+P00570,C0336,52,Other,Scarf,Accessories,79.0,New York,M,Green,Spring,4.0,No,Express,No,No,33,Bank Transfer,Weekly,2025-03-30
+P00571,C0078,22,Male,Sweater,Clothing,83.0,Washington,M,Black,Summer,5.0,No,Next Day,No,No,20,Bank Transfer,Fortnightly,2025-02-02
+P00572,C0225,44,Male,Flats,Footwear,150.0,California,M,Gray,Spring,3.0,Yes,Standard,No,No,28,Credit Card,Annually,2025-09-27
+P00573,C0313,23,Female,Belt,Accessories,52.35,California,L,Red,Summer,5.0,No,Express,Yes,No,30,Credit Card,Fortnightly,2025-10-24
+P00574,C0202,42,Female,Sandals,Footwear,77.0,Florida,L,Blue,Winter,4.0,Yes,Standard,No,No,22,Credit Card,Quarterly,2025-11-17
+P00575,C0085,51,Female,Sneakers,Footwear,129.0,Florida,L,Green,Spring,5.0,No,Standard,No,Yes,23,Debit Card,Monthly,2025-12-21
+P00576,C0388,56,Other,Backpack,Accessories,34.0,Georgia,S,Red,Winter,4.0,No,Free Shipping,No,No,10,Credit Card,Monthly,2025-10-25
+P00577,C0108,55,Male,Raincoat,Outerwear,88.0,New York,XL,Red,Summer,3.0,No,Express,No,No,10,PayPal,Annually,2025-10-15
+P00578,C0134,58,Female,Belt,Accessories,33.21,Texas,L,Blue,Summer,4.0,No,Free Shipping,Yes,Yes,6,Credit Card,Weekly,2025-10-24
+P00579,C0149,30,Female,Sandals,Footwear,124.39,Washington,S,Gray,Fall,3.5,Yes,Next Day,Yes,Yes,12,Credit Card,Monthly,2025-12-31
+P00580,C0357,62,Female,Skirt,Clothing,54.03,California,M,Pink,Spring,4.5,No,Free Shipping,Yes,Yes,25,Credit Card,Monthly,2025-06-19
+P00581,C0201,36,Female,Wallet,Accessories,38.0,Georgia,M,Green,Spring,4.5,No,Express,No,No,37,PayPal,Weekly,2025-10-04
+P00582,C0288,37,Male,Scarf,Accessories,36.84,Washington,M,Blue,Summer,4.5,No,Express,Yes,Yes,18,Credit Card,Fortnightly,2025-10-27
+P00583,C0361,59,Female,T-shirt,Clothing,39.0,Georgia,S,Brown,Spring,3.5,No,Standard,No,No,24,Debit Card,Quarterly,2025-02-12
+P00584,C0372,35,Male,Shirt,Clothing,53.04,Georgia,M,Black,Winter,4.5,No,Express,Yes,No,34,PayPal,Weekly,2025-09-10
+P00585,C0343,21,Male,Coat,Outerwear,103.0,New York,S,White,Fall,4.0,No,Express,No,No,27,Cash,Quarterly,2025-05-04
+P00586,C0364,55,Female,Backpack,Accessories,41.41,Florida,S,Black,Winter,5.0,No,Next Day,Yes,Yes,11,Credit Card,Monthly,2025-02-18
+P00587,C0380,53,Female,Sweater,Clothing,39.91,Washington,M,Brown,Winter,4.5,No,Standard,Yes,Yes,11,PayPal,Weekly,2025-03-04
+P00588,C0397,48,Other,Jeans,Clothing,34.12,New York,XL,Black,Summer,4.5,Yes,Standard,Yes,Yes,25,Credit Card,Fortnightly,2025-02-11
+P00589,C0258,25,Male,Sweater,Clothing,97.0,Florida,L,Green,Winter,5.0,Yes,Free Shipping,No,Yes,12,PayPal,Fortnightly,2025-11-24
+P00590,C0053,51,Female,Skirt,Clothing,44.0,Washington,M,Blue,Spring,4.0,No,Free Shipping,No,No,10,Debit Card,Quarterly,2025-10-09
+P00591,C0046,28,Female,Hoodie,Outerwear,42.22,Ohio,L,Blue,Summer,4.0,No,Standard,Yes,No,24,Bank Transfer,Monthly,2025-02-07
+P00592,C0319,47,Male,Scarf,Accessories,38.0,Florida,L,Green,Fall,3.5,Yes,Next Day,No,No,25,Bank Transfer,Weekly,2025-08-17
+P00593,C0127,44,Male,Shirt,Clothing,60.0,Ohio,S,Brown,Summer,4.5,Yes,Express,No,No,10,PayPal,Monthly,2025-08-30
+P00594,C0322,58,Male,Watch,Accessories,13.68,Washington,M,Black,Fall,4.0,No,Free Shipping,Yes,No,2,Bank Transfer,Monthly,2025-07-09
+P00595,C0374,69,Male,Shirt,Clothing,40.0,New York,M,Blue,Winter,2.5,No,Standard,No,No,30,Credit Card,Monthly,2025-08-10
+P00596,C0258,28,Male,Sweater,Clothing,24.17,Texas,L,White,Summer,4.5,No,Express,Yes,Yes,16,PayPal,Weekly,2025-11-28
+P00597,C0306,24,Female,Loafers,Footwear,78.51,Georgia,M,Pink,Summer,2.5,No,Standard,Yes,Yes,25,Credit Card,Weekly,2025-07-09
+P00598,C0112,47,Male,Scarf,Accessories,64.0,New York,M,Black,Fall,4.5,Yes,Standard,No,No,7,Credit Card,Monthly,2025-08-29
+P00599,C0174,68,Female,Coat,Outerwear,187.08,New York,L,Blue,Winter,3.5,No,Free Shipping,Yes,Yes,13,Debit Card,Quarterly,2025-07-28
+P00600,C0387,26,Male,Watch,Accessories,34.29,Texas,One Size,Red,Winter,4.0,No,Standard,Yes,Yes,24,PayPal,Quarterly,2025-05-25
+P00601,C0327,43,Other,Scarf,Accessories,74.0,Georgia,M,White,Winter,5.0,Yes,Standard,No,No,5,PayPal,Fortnightly,2025-11-22
+P00602,C0082,39,Other,Flats,Footwear,42.09,Washington,L,Black,Spring,3.0,No,Standard,Yes,Yes,13,Cash,Fortnightly,2025-06-01
+P00603,C0375,34,Male,Hoodie,Outerwear,180.0,California,M,Green,Spring,4.5,No,Standard,No,No,29,Debit Card,Quarterly,2025-10-19
+P00604,C0200,53,Male,Sandals,Footwear,100.0,Florida,L,Green,Fall,4.5,No,Next Day,No,No,31,Bank Transfer,Weekly,2025-08-09
+P00605,C0338,33,Male,Hoodie,Outerwear,176.0,Georgia,L,Blue,Summer,5.0,No,Standard,No,No,14,Cash,Monthly,2025-09-08
+P00606,C0209,44,Other,Loafers,Footwear,126.0,California,L,Gray,Fall,3.5,No,Next Day,No,Yes,5,Cash,Monthly,2025-10-05
+P00607,C0242,62,Male,Flats,Footwear,96.0,Illinois,M,Black,Winter,4.5,No,Free Shipping,No,No,2,Credit Card,Fortnightly,2025-09-26
+P00608,C0065,38,Female,Skirt,Clothing,36.0,Florida,M,Gray,Fall,4.0,Yes,Standard,No,No,22,Debit Card,Monthly,2025-07-25
+P00609,C0136,19,Female,Sandals,Footwear,79.34,Ohio,XL,White,Summer,4.0,Yes,Free Shipping,Yes,Yes,28,PayPal,Fortnightly,2025-08-13
+P00610,C0290,64,Male,Sunglasses,Accessories,63.04,Ohio,M,Blue,Winter,4.0,Yes,Standard,Yes,No,24,Bank Transfer,Monthly,2025-07-05
+P00611,C0337,32,Male,Scarf,Accessories,82.0,Ohio,One Size,Blue,Summer,4.0,No,Standard,No,No,16,Credit Card,Fortnightly,2025-05-04
+P00612,C0036,58,Male,Backpack,Accessories,79.0,New York,M,Brown,Fall,4.0,No,Standard,No,No,1,Credit Card,Monthly,2025-09-23
+P00613,C0031,58,Male,Hoodie,Outerwear,62.14,Florida,M,Green,Spring,3.0,No,Standard,Yes,Yes,9,Credit Card,Monthly,2025-11-17
+P00614,C0278,45,Female,Coat,Outerwear,147.0,Washington,M,Gray,Fall,4.0,Yes,Standard,No,No,2,Credit Card,Weekly,2025-09-15
+P00615,C0179,22,Female,Dress,Clothing,17.65,Florida,M,Blue,Summer,4.5,No,Standard,Yes,Yes,19,Cash,Monthly,2025-10-09
+P00616,C0340,68,Male,Boots,Footwear,115.0,Washington,XL,Black,Spring,4.0,Yes,Free Shipping,No,No,13,Credit Card,Quarterly,2025-10-31
+P00617,C0028,54,Female,Boots,Footwear,132.75,Washington,S,Black,Spring,3.5,No,Express,Yes,Yes,3,Debit Card,Annually,2025-05-15
+P00618,C0140,40,Male,Shirt,Clothing,16.44,Texas,L,Red,Fall,4.0,No,Free Shipping,Yes,Yes,24,PayPal,Fortnightly,2025-01-23
+P00619,C0015,63,Male,T-shirt,Clothing,53.06,New York,L,White,Spring,4.0,Yes,Express,Yes,Yes,15,Debit Card,Fortnightly,2025-05-04
+P00620,C0284,59,Male,Jeans,Clothing,78.46,Georgia,XL,Brown,Spring,4.5,No,Express,Yes,Yes,38,Credit Card,Monthly,2025-10-03
+P00621,C0344,58,Female,Sandals,Footwear,117.23,Ohio,L,Brown,Spring,5.0,No,Standard,Yes,Yes,17,PayPal,Quarterly,2025-10-25
+P00622,C0063,26,Male,Belt,Accessories,31.04,Georgia,One Size,White,Spring,4.0,No,Express,Yes,Yes,4,Debit Card,Monthly,2025-07-07
+P00623,C0130,51,Female,Raincoat,Outerwear,47.26,Texas,XL,Red,Summer,4.5,Yes,Standard,Yes,Yes,28,Bank Transfer,Monthly,2025-10-12
+P00624,C0339,33,Female,Watch,Accessories,65.82,Texas,M,Red,Summer,3.0,No,Free Shipping,Yes,Yes,28,PayPal,Quarterly,2025-01-28
+P00625,C0017,22,Female,Coat,Outerwear,170.74,Texas,XL,Gray,Fall,5.0,No,Free Shipping,Yes,Yes,37,Bank Transfer,Weekly,2025-08-24
+P00626,C0381,35,Female,Skirt,Clothing,64.0,New York,One Size,Gray,Fall,4.0,No,Standard,No,No,28,Credit Card,Monthly,2025-09-05
+P00627,C0355,23,Male,Sandals,Footwear,128.1,California,M,Gray,Fall,4.0,Yes,Express,Yes,Yes,15,PayPal,Monthly,2025-07-05
+P00628,C0062,23,Male,T-shirt,Clothing,11.73,Texas,L,Black,Winter,3.5,No,Express,Yes,Yes,27,Debit Card,Monthly,2025-09-19
+P00629,C0056,56,Female,Scarf,Accessories,49.7,Georgia,M,White,Spring,3.0,Yes,Express,Yes,Yes,32,PayPal,Quarterly,2025-06-29
+P00630,C0277,44,Male,Flats,Footwear,26.89,California,L,Pink,Fall,4.5,No,Standard,Yes,No,21,Debit Card,Monthly,2025-07-11
+P00631,C0005,39,Male,Hoodie,Outerwear,165.35,Illinois,S,White,Spring,3.5,No,Next Day,Yes,Yes,31,Credit Card,Monthly,2025-08-09
+P00632,C0203,28,Male,Loafers,Footwear,116.0,Illinois,L,Blue,Winter,3.5,Yes,Free Shipping,No,No,38,Credit Card,Monthly,2025-10-17
+P00633,C0027,58,Male,Sweater,Clothing,92.0,Texas,M,Blue,Summer,3.5,No,Standard,No,No,30,Cash,Fortnightly,2025-04-01
+P00634,C0213,51,Male,Sweater,Clothing,62.0,Georgia,L,Black,Summer,5.0,No,Express,No,No,20,Cash,Quarterly,2025-04-20
+P00635,C0141,49,Female,T-shirt,Clothing,22.0,New York,S,Brown,Spring,4.5,No,Standard,No,No,20,Credit Card,Quarterly,2025-06-02
+P00636,C0283,28,Female,Jeans,Clothing,17.0,Ohio,L,Black,Fall,5.0,No,Free Shipping,No,Yes,33,PayPal,Annually,2025-03-15
+P00637,C0353,24,Male,Flats,Footwear,53.08,Washington,M,Green,Summer,5.0,No,Standard,Yes,No,35,PayPal,Quarterly,2025-05-02
+P00638,C0196,24,Male,Flats,Footwear,125.0,Texas,L,Red,Winter,5.0,No,Standard,No,No,11,Debit Card,Fortnightly,2025-05-09
+P00639,C0257,19,Male,Loafers,Footwear,45.0,Ohio,M,Black,Spring,4.0,No,Standard,No,No,1,Credit Card,Monthly,2025-04-25
+P00640,C0241,69,Female,Sneakers,Footwear,140.0,Florida,S,Pink,Summer,3.5,No,Free Shipping,No,No,32,Cash,Monthly,2025-05-30
+P00641,C0394,37,Female,Loafers,Footwear,57.0,Georgia,M,Gray,Winter,4.0,No,Next Day,No,No,10,PayPal,Weekly,2025-07-04
+P00642,C0093,52,Male,Flats,Footwear,92.0,New York,One Size,Brown,Winter,3.5,No,Standard,No,No,39,PayPal,Monthly,2025-09-12
+P00643,C0096,70,Female,Sweater,Clothing,32.0,New York,M,Pink,Winter,4.5,No,Standard,No,Yes,2,PayPal,Monthly,2025-04-21
+P00644,C0152,67,Male,T-shirt,Clothing,54.0,Illinois,L,Pink,Fall,2.5,Yes,Next Day,No,No,36,PayPal,Weekly,2025-11-05
+P00645,C0295,34,Male,Sunglasses,Accessories,34.39,Georgia,S,Gray,Winter,3.0,No,Standard,Yes,No,27,Credit Card,Quarterly,2025-06-24
+P00646,C0347,43,Female,Boots,Footwear,25.0,New York,L,Green,Spring,4.5,Yes,Standard,No,No,12,Bank Transfer,Fortnightly,2025-09-21
+P00647,C0112,42,Female,Sweater,Clothing,55.72,Ohio,M,Gray,Winter,3.0,No,Free Shipping,Yes,No,2,Credit Card,Monthly,2025-02-11
+P00648,C0044,19,Female,Scarf,Accessories,68.0,Georgia,M,Red,Fall,2.5,No,Standard,No,No,34,Cash,Quarterly,2025-03-05
+P00649,C0244,58,Female,Loafers,Footwear,151.0,Florida,M,Blue,Summer,3.0,Yes,Express,No,No,5,Cash,Monthly,2025-06-15
+P00650,C0240,48,Male,Skirt,Clothing,34.04,Ohio,S,Red,Spring,4.5,No,Standard,Yes,Yes,4,PayPal,Fortnightly,2025-05-14
+P00651,C0150,37,Male,Skirt,Clothing,89.0,Ohio,M,Red,Fall,3.0,Yes,Next Day,No,No,31,Debit Card,Monthly,2025-07-01
+P00652,C0074,47,Female,Coat,Outerwear,151.11,California,M,Black,Spring,3.0,No,Free Shipping,Yes,Yes,27,Credit Card,Quarterly,2025-02-27
+P00653,C0340,56,Male,Flats,Footwear,158.0,Ohio,L,Brown,Fall,3.5,No,Standard,No,No,5,Debit Card,Quarterly,2025-06-22
+P00654,C0339,18,Female,Jeans,Clothing,46.0,Washington,One Size,Pink,Spring,4.5,No,Next Day,No,No,14,PayPal,Monthly,2025-09-08
+P00655,C0300,52,Female,Boots,Footwear,139.0,New York,M,Red,Summer,3.5,No,Free Shipping,No,No,26,Credit Card,Weekly,2025-09-23
+P00656,C0232,63,Male,Sweater,Clothing,63.0,Illinois,XL,Red,Spring,2.5,Yes,Free Shipping,No,Yes,26,Credit Card,Monthly,2025-04-01
+P00657,C0105,56,Male,Flats,Footwear,25.56,Washington,M,Brown,Summer,5.0,No,Standard,Yes,Yes,15,Bank Transfer,Fortnightly,2025-05-06
+P00658,C0162,50,Male,T-shirt,Clothing,31.02,Ohio,S,Red,Summer,5.0,No,Express,Yes,Yes,17,Credit Card,Quarterly,2025-07-11
+P00659,C0028,22,Female,Scarf,Accessories,60.0,Ohio,M,Gray,Spring,3.5,Yes,Free Shipping,No,No,4,Credit Card,Quarterly,2025-07-09
+P00660,C0100,57,Male,Dress,Clothing,22.27,Florida,M,Green,Winter,3.5,No,Standard,Yes,Yes,1,Credit Card,Quarterly,2025-10-17
+P00661,C0181,57,Female,Skirt,Clothing,51.0,Texas,M,White,Winter,3.5,Yes,Standard,No,No,38,PayPal,Annually,2025-05-23
+P00662,C0175,44,Other,Raincoat,Outerwear,159.48,California,XL,Brown,Summer,4.5,No,Standard,Yes,No,10,Debit Card,Monthly,2025-09-02
+P00663,C0033,48,Male,Skirt,Clothing,27.0,New York,L,Blue,Spring,3.5,Yes,Free Shipping,No,No,37,Cash,Annually,2025-11-19
+P00664,C0384,50,Male,Jeans,Clothing,57.0,Washington,L,Blue,Winter,5.0,No,Standard,No,No,2,Debit Card,Monthly,2025-04-19
+P00665,C0108,24,Female,Sweater,Clothing,33.0,Georgia,M,Gray,Fall,4.5,Yes,Standard,No,No,39,Credit Card,Fortnightly,2025-10-28
+P00666,C0204,31,Female,Sandals,Footwear,83.42,New York,M,Gray,Fall,4.0,Yes,Express,Yes,Yes,17,Debit Card,Quarterly,2025-05-02
+P00667,C0187,59,Male,Loafers,Footwear,57.0,Washington,L,Pink,Fall,2.0,No,Standard,No,Yes,32,Credit Card,Quarterly,2025-05-03
+P00668,C0188,69,Female,Jacket,Outerwear,213.0,Illinois,S,Gray,Spring,5.0,No,Standard,No,No,33,Cash,Annually,2025-08-27
+P00669,C0339,32,Male,Sweater,Clothing,16.14,California,S,Black,Summer,4.5,Yes,Express,Yes,Yes,14,Credit Card,Fortnightly,2025-08-15
+P00670,C0299,39,Male,Shirt,Clothing,96.0,California,M,Brown,Spring,4.5,No,Standard,No,No,29,Credit Card,Monthly,2025-07-20
+P00671,C0348,66,Other,Shirt,Clothing,82.0,Texas,S,Red,Fall,3.0,No,Free Shipping,No,No,14,Debit Card,Quarterly,2025-03-26
+P00672,C0152,26,Female,Watch,Accessories,62.45,Washington,L,Black,Winter,4.5,No,Standard,Yes,Yes,31,Credit Card,Weekly,2025-02-05
+P00673,C0107,31,Male,Jacket,Outerwear,193.0,Texas,S,Green,Fall,4.5,Yes,Free Shipping,No,No,38,Debit Card,Monthly,2025-11-28
+P00674,C0171,20,Female,Sneakers,Footwear,37.85,Ohio,S,Blue,Fall,5.0,No,Express,Yes,No,32,Debit Card,Monthly,2025-11-16
+P00675,C0225,30,Female,Watch,Accessories,61.32,Texas,XL,Red,Fall,4.0,No,Standard,Yes,Yes,29,Bank Transfer,Fortnightly,2025-11-20
+P00676,C0135,51,Male,Sweater,Clothing,65.0,New York,One Size,Red,Winter,4.0,No,Standard,No,No,15,Credit Card,Fortnightly,2025-07-07
+P00677,C0185,36,Female,Coat,Outerwear,213.0,New York,M,Black,Spring,4.0,No,Express,No,No,5,Debit Card,Quarterly,2025-11-19
+P00678,C0061,70,Male,Scarf,Accessories,75.0,Florida,M,Brown,Summer,4.5,No,Standard,No,No,20,PayPal,Weekly,2025-06-22
+P00679,C0234,65,Male,Jeans,Clothing,52.84,Florida,L,Green,Summer,5.0,No,Standard,Yes,Yes,6,Credit Card,Quarterly,2025-01-28
+P00680,C0286,65,Other,T-shirt,Clothing,46.0,Washington,S,Pink,Fall,4.5,No,Free Shipping,No,No,20,PayPal,Quarterly,2025-03-14
+P00681,C0211,56,Other,Dress,Clothing,24.0,Florida,M,Red,Summer,3.5,Yes,Express,No,No,34,Cash,Monthly,2025-04-10
+P00682,C0350,55,Male,Sweater,Clothing,23.0,California,S,Green,Winter,2.0,No,Free Shipping,No,Yes,5,Cash,Monthly,2025-05-18
+P00683,C0399,45,Female,Dress,Clothing,48.0,California,M,Brown,Summer,4.5,No,Standard,No,No,36,Bank Transfer,Weekly,2025-12-09
+P00684,C0363,70,Male,Belt,Accessories,59.58,Illinois,One Size,Blue,Winter,5.0,No,Standard,Yes,Yes,24,PayPal,Quarterly,2025-05-02
+P00685,C0038,23,Female,Scarf,Accessories,47.0,Texas,L,Pink,Winter,3.0,No,Express,No,No,2,Debit Card,Fortnightly,2025-08-12
+P00686,C0353,56,Male,Dress,Clothing,48.4,Washington,One Size,Blue,Spring,4.0,No,Standard,Yes,Yes,29,Bank Transfer,Fortnightly,2025-04-09
+P00687,C0134,25,Male,Sunglasses,Accessories,28.0,Georgia,L,Pink,Winter,5.0,Yes,Standard,No,Yes,1,Credit Card,Annually,2025-08-23
+P00688,C0181,35,Male,Raincoat,Outerwear,141.0,Texas,L,Gray,Winter,4.0,Yes,Standard,No,Yes,24,Debit Card,Monthly,2025-07-27
+P00689,C0165,31,Female,Boots,Footwear,98.15,Illinois,L,Green,Spring,3.5,Yes,Standard,Yes,Yes,20,PayPal,Fortnightly,2025-02-24
+P00690,C0114,49,Female,Scarf,Accessories,83.0,Ohio,L,Blue,Summer,4.0,Yes,Next Day,No,No,30,Cash,Annually,2025-06-18
+P00691,C0351,59,Female,Dress,Clothing,64.78,California,M,Green,Winter,4.0,No,Standard,Yes,Yes,15,Bank Transfer,Weekly,2025-02-08
+P00692,C0256,22,Female,Jacket,Outerwear,149.0,Illinois,M,Green,Winter,3.0,Yes,Free Shipping,No,No,5,Credit Card,Fortnightly,2025-11-21
+P00693,C0387,49,Female,Sweater,Clothing,92.0,Texas,L,Pink,Summer,4.5,Yes,Standard,No,No,16,PayPal,Monthly,2025-09-15
+P00694,C0382,29,Female,T-shirt,Clothing,43.41,Washington,M,Brown,Fall,4.5,No,Standard,Yes,Yes,30,Credit Card,Quarterly,2025-12-10
+P00695,C0168,22,Female,Jacket,Outerwear,208.0,Washington,M,Red,Spring,4.5,Yes,Standard,No,No,38,PayPal,Quarterly,2025-11-16
+P00696,C0291,40,Male,Sunglasses,Accessories,37.0,California,S,Red,Fall,4.5,Yes,Express,No,No,9,PayPal,Quarterly,2025-03-22
+P00697,C0201,48,Female,Sandals,Footwear,34.29,California,L,Red,Fall,2.0,Yes,Free Shipping,Yes,Yes,14,Credit Card,Annually,2025-09-16
+P00698,C0198,28,Male,Watch,Accessories,41.0,New York,M,Red,Summer,3.5,Yes,Free Shipping,No,No,35,Cash,Weekly,2025-02-06
+P00699,C0296,38,Female,Backpack,Accessories,16.4,New York,M,Black,Summer,3.5,No,Standard,Yes,Yes,13,Debit Card,Monthly,2025-12-17
+P00700,C0276,68,Male,Skirt,Clothing,25.0,New York,M,Black,Winter,3.0,No,Standard,No,Yes,10,Debit Card,Weekly,2025-10-14
+P00701,C0365,36,Female,T-shirt,Clothing,70.19,Washington,S,Brown,Summer,4.5,No,Free Shipping,Yes,No,33,Bank Transfer,Annually,2025-09-06
+P00702,C0310,70,Male,T-shirt,Clothing,82.0,Georgia,One Size,White,Summer,3.0,No,Standard,No,No,20,PayPal,Annually,2025-12-30
+P00703,C0249,62,Male,Jeans,Clothing,33.0,Florida,M,Red,Summer,4.5,No,Express,No,Yes,23,Debit Card,Monthly,2025-11-06
+P00704,C0368,37,Male,Sandals,Footwear,113.0,Georgia,M,Gray,Summer,3.5,No,Standard,Yes,Yes,20,Credit Card,Quarterly,2025-11-12
+P00705,C0041,48,Female,T-shirt,Clothing,15.51,Washington,S,Green,Summer,3.0,No,Standard,Yes,No,24,Credit Card,Monthly,2025-02-06
+P00706,C0306,55,Male,Wallet,Accessories,31.0,Ohio,XL,White,Fall,3.5,No,Express,No,No,11,Credit Card,Weekly,2025-01-09
+P00707,C0157,42,Female,Sandals,Footwear,120.0,Washington,L,Brown,Winter,4.0,No,Standard,No,No,29,Credit Card,Monthly,2025-12-17
+P00708,C0174,39,Female,Sandals,Footwear,66.0,California,M,Blue,Fall,4.5,No,Free Shipping,No,Yes,15,Credit Card,Annually,2025-04-02
+P00709,C0313,35,Female,Belt,Accessories,48.7,Illinois,M,Red,Spring,4.5,No,Express,Yes,Yes,21,Debit Card,Monthly,2025-06-05
+P00710,C0110,25,Male,Scarf,Accessories,57.07,Illinois,L,Black,Summer,3.0,Yes,Free Shipping,Yes,Yes,8,PayPal,Weekly,2025-01-16
+P00711,C0354,19,Female,Jacket,Outerwear,51.0,Washington,One Size,Green,Fall,4.5,No,Next Day,No,No,1,Credit Card,Annually,2025-08-16
+P00712,C0200,35,Male,Loafers,Footwear,28.0,Ohio,M,Black,Fall,4.5,Yes,Standard,No,No,23,PayPal,Monthly,2025-10-27
+P00713,C0140,60,Female,Sandals,Footwear,151.0,New York,S,Pink,Winter,4.0,No,Express,No,No,6,Bank Transfer,Monthly,2025-11-04
+P00714,C0132,30,Female,Raincoat,Outerwear,133.0,Washington,S,Gray,Summer,3.0,No,Standard,No,Yes,36,Credit Card,Quarterly,2025-08-01
+P00715,C0169,27,Female,Boots,Footwear,93.0,Ohio,S,Blue,Summer,3.5,No,Free Shipping,No,No,38,PayPal,Monthly,2025-08-30
+P00716,C0378,35,Female,Dress,Clothing,44.13,New York,L,Green,Fall,3.0,Yes,Standard,Yes,No,13,Credit Card,Monthly,2025-07-07
+P00717,C0042,49,Male,Belt,Accessories,33.86,Florida,One Size,White,Spring,5.0,No,Free Shipping,Yes,Yes,12,Debit Card,Weekly,2025-06-12
+P00718,C0204,29,Male,Shirt,Clothing,73.0,Georgia,One Size,Green,Fall,4.0,No,Express,No,Yes,20,PayPal,Quarterly,2025-07-22
+P00719,C0335,29,Male,Wallet,Accessories,53.0,New York,L,Blue,Winter,4.0,No,Express,No,No,8,Credit Card,Monthly,2025-12-08
+P00720,C0189,23,Female,Jacket,Outerwear,53.02,California,S,Green,Fall,4.5,No,Express,Yes,Yes,34,Credit Card,Quarterly,2025-04-03
+P00721,C0227,35,Female,Belt,Accessories,42.86,Ohio,One Size,Black,Summer,4.0,No,Express,Yes,Yes,4,Cash,Quarterly,2025-06-21
+P00722,C0140,29,Male,Sunglasses,Accessories,60.0,California,M,Blue,Winter,4.5,No,Next Day,No,Yes,18,Credit Card,Weekly,2025-08-08
+P00723,C0055,62,Female,T-shirt,Clothing,24.0,Washington,M,Green,Fall,3.0,No,Next Day,No,No,8,PayPal,Quarterly,2025-07-28
+P00724,C0256,66,Female,Jacket,Outerwear,81.9,Georgia,L,Green,Fall,4.0,No,Standard,Yes,Yes,33,PayPal,Quarterly,2025-01-12
+P00725,C0368,37,Male,Dress,Clothing,82.0,Florida,S,White,Winter,3.0,Yes,Express,No,No,6,Credit Card,Annually,2025-04-15
+P00726,C0209,22,Female,Shirt,Clothing,54.69,Florida,XL,Black,Spring,3.5,Yes,Standard,Yes,No,18,PayPal,Fortnightly,2025-08-24
+P00727,C0173,22,Female,Skirt,Clothing,26.0,Florida,One Size,Red,Winter,3.5,Yes,Express,No,No,33,Debit Card,Monthly,2025-09-11
+P00728,C0052,35,Female,Sweater,Clothing,13.51,Texas,L,Pink,Fall,4.5,No,Express,Yes,Yes,18,Credit Card,Quarterly,2025-09-26
+P00729,C0378,42,Male,Scarf,Accessories,41.28,Florida,L,Gray,Fall,4.5,No,Standard,Yes,Yes,8,Bank Transfer,Annually,2025-12-28
+P00730,C0348,46,Female,Watch,Accessories,44.0,Illinois,M,Black,Spring,4.5,No,Next Day,No,No,7,Debit Card,Annually,2025-09-03
+P00731,C0361,34,Male,Jeans,Clothing,83.52,Georgia,S,Pink,Winter,3.0,No,Express,Yes,Yes,24,PayPal,Monthly,2025-07-31
+P00732,C0144,36,Female,T-shirt,Clothing,59.0,Georgia,XL,Red,Spring,5.0,No,Express,No,Yes,5,Credit Card,Monthly,2025-05-02
+P00733,C0251,33,Female,Shirt,Clothing,76.22,Ohio,L,Green,Winter,2.5,Yes,Next Day,Yes,Yes,14,Credit Card,Fortnightly,2025-05-16
+P00734,C0174,45,Female,Skirt,Clothing,33.0,New York,XL,Black,Winter,4.5,Yes,Next Day,No,No,24,PayPal,Quarterly,2025-10-29
+P00735,C0094,54,Male,Skirt,Clothing,53.0,Texas,S,White,Summer,4.5,No,Next Day,No,Yes,15,PayPal,Quarterly,2025-06-21
+P00736,C0083,20,Female,Sandals,Footwear,43.0,Ohio,M,Brown,Summer,4.5,No,Standard,No,No,33,Credit Card,Quarterly,2025-09-19
+P00737,C0154,43,Male,T-shirt,Clothing,48.99,Illinois,M,White,Spring,4.0,No,Standard,Yes,No,27,PayPal,Monthly,2025-02-15
+P00738,C0222,52,Female,Skirt,Clothing,23.75,Texas,L,Blue,Summer,4.5,Yes,Next Day,Yes,Yes,6,Debit Card,Annually,2025-02-16
+P00739,C0049,53,Female,Dress,Clothing,45.68,Texas,L,Black,Spring,4.5,No,Standard,Yes,Yes,32,Credit Card,Fortnightly,2025-03-20
+P00740,C0281,47,Female,Skirt,Clothing,44.0,New York,One Size,Pink,Winter,3.0,No,Standard,No,No,36,Cash,Monthly,2025-03-13
+P00741,C0184,45,Male,Shirt,Clothing,23.12,Texas,M,Brown,Fall,4.5,No,Standard,Yes,No,8,PayPal,Monthly,2025-08-10
+P00742,C0353,54,Female,T-shirt,Clothing,18.26,Florida,M,Black,Spring,3.0,Yes,Standard,Yes,Yes,14,Debit Card,Monthly,2025-08-21
+P00743,C0112,38,Male,Loafers,Footwear,74.81,Florida,S,Pink,Winter,4.0,No,Free Shipping,Yes,No,16,PayPal,Quarterly,2025-07-23
+P00744,C0021,48,Male,T-shirt,Clothing,74.97,Illinois,M,Brown,Spring,4.5,No,Standard,Yes,Yes,17,Debit Card,Monthly,2025-04-16
+P00745,C0125,34,Male,Sunglasses,Accessories,24.0,Texas,M,White,Fall,4.5,No,Standard,No,No,19,Bank Transfer,Weekly,2025-07-30
+P00746,C0390,41,Male,Wallet,Accessories,33.92,California,L,Gray,Spring,4.0,No,Free Shipping,Yes,Yes,35,Cash,Fortnightly,2025-02-13
+P00747,C0129,24,Male,Sweater,Clothing,28.1,Georgia,M,White,Spring,3.5,No,Free Shipping,Yes,Yes,26,Debit Card,Monthly,2025-06-22
+P00748,C0282,36,Male,Watch,Accessories,70.0,Florida,M,Blue,Spring,4.0,No,Standard,No,Yes,35,Debit Card,Quarterly,2025-02-26
+P00749,C0338,25,Female,Boots,Footwear,81.0,Texas,L,Gray,Summer,3.5,No,Free Shipping,No,No,14,Bank Transfer,Monthly,2025-01-29
+P00750,C0114,30,Male,Sneakers,Footwear,136.23,Washington,XL,Blue,Fall,4.0,No,Standard,Yes,Yes,21,Cash,Monthly,2025-03-02
+P00751,C0258,40,Male,Shirt,Clothing,35.0,Illinois,M,White,Winter,4.0,Yes,Free Shipping,No,No,5,Credit Card,Weekly,2025-02-10
+P00752,C0082,44,Female,Skirt,Clothing,21.0,Illinois,M,White,Winter,4.5,Yes,Standard,No,Yes,11,Credit Card,Quarterly,2025-06-24
+P00753,C0145,67,Male,Dress,Clothing,50.48,California,L,Blue,Fall,3.5,No,Standard,Yes,Yes,23,Debit Card,Monthly,2025-07-19
+P00754,C0119,19,Male,Backpack,Accessories,58.0,Washington,L,Brown,Fall,3.5,Yes,Standard,No,No,7,Cash,Monthly,2025-08-10
+P00755,C0269,65,Female,Flats,Footwear,158.0,California,XL,Gray,Summer,4.0,Yes,Next Day,No,No,38,Bank Transfer,Monthly,2025-06-10
+P00756,C0351,35,Male,Sweater,Clothing,89.0,Ohio,M,Brown,Summer,2.5,No,Standard,No,Yes,11,Cash,Fortnightly,2025-03-06
+P00757,C0101,56,Female,T-shirt,Clothing,90.0,Florida,L,Green,Winter,3.5,No,Express,No,Yes,7,Credit Card,Fortnightly,2025-01-08
+P00758,C0117,53,Female,Raincoat,Outerwear,154.0,Florida,XL,Blue,Fall,4.0,Yes,Next Day,No,No,31,Cash,Weekly,2025-09-18
+P00759,C0329,69,Female,Dress,Clothing,36.63,Florida,M,White,Fall,4.0,Yes,Standard,Yes,Yes,4,Credit Card,Quarterly,2025-12-25
+P00760,C0186,23,Male,Watch,Accessories,42.0,Florida,M,White,Spring,3.5,No,Free Shipping,No,No,13,Debit Card,Fortnightly,2025-04-13
+P00761,C0206,69,Female,Flats,Footwear,43.0,Washington,One Size,Pink,Summer,4.0,No,Standard,No,No,8,Debit Card,Fortnightly,2025-03-16
+P00762,C0283,21,Male,Skirt,Clothing,51.0,Florida,S,Blue,Fall,5.0,No,Standard,No,No,28,Debit Card,Annually,2025-04-24
+P00763,C0056,64,Female,Jeans,Clothing,45.0,California,L,Gray,Summer,4.0,No,Standard,No,No,33,Debit Card,Monthly,2025-03-20
+P00764,C0349,52,Female,Sweater,Clothing,15.89,Illinois,XL,Black,Fall,3.5,Yes,Standard,Yes,Yes,8,Credit Card,Monthly,2025-03-23
+P00765,C0147,43,Male,Coat,Outerwear,76.0,Texas,S,Pink,Winter,3.0,No,Standard,No,No,17,Credit Card,Monthly,2025-06-30
+P00766,C0264,39,Female,Skirt,Clothing,45.45,New York,L,Gray,Spring,3.0,Yes,Express,Yes,Yes,19,Cash,Fortnightly,2025-10-14
+P00767,C0173,22,Male,Shirt,Clothing,46.0,Ohio,M,Red,Winter,4.0,No,Express,No,No,27,Credit Card,Weekly,2025-09-17
+P00768,C0302,60,Female,Skirt,Clothing,99.0,Texas,XL,White,Winter,4.5,Yes,Express,No,No,14,Debit Card,Quarterly,2025-12-17
+P00769,C0245,56,Other,Dress,Clothing,55.0,Illinois,XL,White,Summer,2.5,Yes,Express,No,No,21,Credit Card,Monthly,2025-05-11
+P00770,C0070,67,Male,Wallet,Accessories,81.0,California,XL,Blue,Winter,3.5,Yes,Free Shipping,No,No,20,Credit Card,Quarterly,2025-06-29
+P00771,C0076,56,Female,Shirt,Clothing,71.0,Texas,S,Green,Spring,4.0,No,Standard,No,No,1,Credit Card,Annually,2025-05-19
+P00772,C0351,68,Female,Scarf,Accessories,13.0,Florida,L,Brown,Summer,4.0,Yes,Express,No,No,23,PayPal,Weekly,2025-01-16
+P00773,C0208,65,Female,Scarf,Accessories,25.0,California,XL,Blue,Spring,5.0,Yes,Free Shipping,No,No,23,Debit Card,Quarterly,2025-05-22
+P00774,C0111,40,Male,Flats,Footwear,120.0,Georgia,L,Gray,Fall,3.5,Yes,Standard,No,No,39,Credit Card,Weekly,2025-04-06
+P00775,C0058,55,Male,Skirt,Clothing,61.0,Texas,L,Green,Winter,3.0,No,Express,No,No,20,Cash,Monthly,2025-06-24
+P00776,C0052,32,Female,Loafers,Footwear,56.13,Illinois,S,Brown,Fall,4.0,No,Free Shipping,Yes,No,36,Credit Card,Quarterly,2025-02-27
+P00777,C0368,60,Female,Sunglasses,Accessories,49.0,Illinois,XL,Brown,Fall,3.0,No,Express,No,No,14,PayPal,Weekly,2025-09-28
+P00778,C0391,50,Male,Dress,Clothing,78.07,Florida,S,Black,Spring,3.0,No,Free Shipping,Yes,Yes,28,Credit Card,Annually,2025-11-04
+P00779,C0158,41,Female,Sandals,Footwear,77.0,Illinois,M,Black,Winter,4.0,No,Standard,No,No,36,Bank Transfer,Monthly,2025-12-17
+P00780,C0081,51,Male,Sneakers,Footwear,31.0,Illinois,XL,Pink,Spring,3.5,No,Express,No,No,6,Credit Card,Monthly,2025-01-31
+P00781,C0168,32,Male,Dress,Clothing,41.0,New York,One Size,Blue,Fall,3.0,Yes,Standard,No,Yes,23,Debit Card,Weekly,2025-02-12
+P00782,C0055,50,Female,Raincoat,Outerwear,165.44,Washington,One Size,Green,Fall,4.5,No,Standard,Yes,Yes,36,PayPal,Monthly,2025-12-19
+P00783,C0220,43,Male,Belt,Accessories,60.16,New York,M,Brown,Winter,4.0,No,Free Shipping,Yes,Yes,22,Debit Card,Monthly,2025-11-06
+P00784,C0251,35,Female,Scarf,Accessories,72.0,Florida,S,Green,Winter,3.0,Yes,Standard,No,Yes,35,Cash,Fortnightly,2025-08-03
+P00785,C0395,69,Female,Raincoat,Outerwear,159.11,Texas,M,Black,Fall,5.0,No,Free Shipping,Yes,Yes,17,Credit Card,Monthly,2025-04-28
+P00786,C0128,21,Male,Dress,Clothing,18.4,Florida,S,Black,Fall,3.5,Yes,Next Day,Yes,Yes,35,Debit Card,Weekly,2025-07-08
+P00787,C0080,58,Male,Sneakers,Footwear,63.0,New York,XL,Gray,Summer,5.0,No,Free Shipping,No,No,25,Cash,Annually,2025-07-15
+P00788,C0054,29,Male,Sweater,Clothing,20.0,Washington,L,Pink,Fall,5.0,No,Free Shipping,No,No,19,Cash,Monthly,2025-11-06
+P00789,C0151,29,Male,Boots,Footwear,19.9,Florida,M,White,Fall,4.0,No,Express,Yes,Yes,9,Debit Card,Monthly,2025-07-13
+P00790,C0241,26,Female,Belt,Accessories,60.57,New York,S,Green,Fall,3.5,No,Free Shipping,Yes,Yes,7,Debit Card,Quarterly,2025-01-11
+P00791,C0027,23,Male,Sweater,Clothing,94.0,New York,M,Pink,Fall,4.5,No,Free Shipping,No,Yes,12,PayPal,Quarterly,2025-09-13
+P00792,C0304,24,Male,Jeans,Clothing,28.0,Illinois,XL,Brown,Summer,4.0,No,Express,No,Yes,30,PayPal,Quarterly,2025-10-11
+P00793,C0185,62,Female,Dress,Clothing,76.0,Washington,L,Green,Spring,3.5,Yes,Next Day,No,Yes,19,Cash,Annually,2025-04-19
+P00794,C0318,67,Female,Dress,Clothing,51.01,Illinois,S,Gray,Spring,4.0,No,Standard,Yes,Yes,16,Cash,Fortnightly,2025-02-12
+P00795,C0186,48,Male,Dress,Clothing,17.29,Washington,S,Pink,Summer,4.0,No,Standard,Yes,Yes,19,Debit Card,Monthly,2025-02-21
+P00796,C0063,18,Male,Dress,Clothing,77.05,Ohio,M,Brown,Summer,5.0,No,Standard,Yes,No,14,PayPal,Quarterly,2025-11-03
+P00797,C0009,63,Female,Shirt,Clothing,89.0,Ohio,S,Red,Fall,4.5,No,Express,No,No,32,Debit Card,Weekly,2025-06-13
+P00798,C0223,49,Male,Skirt,Clothing,49.53,Georgia,One Size,Gray,Winter,5.0,Yes,Standard,Yes,Yes,16,Credit Card,Quarterly,2025-07-13
+P00799,C0216,45,Female,Boots,Footwear,94.72,Georgia,L,White,Fall,4.5,Yes,Express,Yes,Yes,19,Cash,Weekly,2025-12-17
+P00800,C0326,68,Female,Loafers,Footwear,78.0,Ohio,S,Pink,Winter,4.5,Yes,Next Day,No,No,22,PayPal,Annually,2025-01-23
+P00801,C0351,39,Female,Sneakers,Footwear,132.0,Florida,L,Black,Fall,4.0,Yes,Next Day,No,No,26,Credit Card,Quarterly,2025-03-17
+P00802,C0065,37,Male,Shirt,Clothing,52.0,Illinois,M,Blue,Winter,5.0,No,Free Shipping,No,No,14,PayPal,Monthly,2025-11-01
+P00803,C0126,59,Female,Coat,Outerwear,218.0,Illinois,M,White,Winter,5.0,No,Free Shipping,No,No,3,Credit Card,Monthly,2025-07-17
+P00804,C0084,45,Female,Backpack,Accessories,14.0,California,L,Blue,Spring,5.0,No,Free Shipping,No,No,27,Credit Card,Annually,2025-01-10
+P00805,C0043,55,Female,Jeans,Clothing,29.0,Washington,S,Green,Fall,4.5,No,Express,No,Yes,22,PayPal,Quarterly,2025-09-14
+P00806,C0001,54,Male,Skirt,Clothing,81.95,Illinois,M,Gray,Fall,4.0,No,Standard,Yes,Yes,26,PayPal,Quarterly,2025-02-20
+P00807,C0033,62,Male,Flats,Footwear,63.0,Illinois,XL,Pink,Winter,3.5,Yes,Free Shipping,No,No,22,Debit Card,Quarterly,2025-10-13
+P00808,C0210,34,Female,Sweater,Clothing,41.0,Ohio,XL,Green,Fall,5.0,No,Standard,No,No,20,Credit Card,Weekly,2025-10-19
+P00809,C0061,21,Male,Wallet,Accessories,69.0,Washington,M,Green,Spring,2.0,No,Standard,No,No,37,Debit Card,Weekly,2025-10-28
+P00810,C0078,43,Female,Coat,Outerwear,74.0,Georgia,L,Green,Spring,3.5,No,Standard,No,No,3,Credit Card,Fortnightly,2025-06-19
+P00811,C0048,52,Female,Skirt,Clothing,58.0,Georgia,M,Black,Spring,4.0,No,Express,No,No,4,Bank Transfer,Quarterly,2025-04-08
+P00812,C0290,61,Male,Sweater,Clothing,30.72,Ohio,L,Gray,Spring,4.0,No,Next Day,Yes,No,37,Credit Card,Monthly,2025-11-18
+P00813,C0255,32,Male,Raincoat,Outerwear,75.0,Texas,M,Black,Spring,4.0,Yes,Standard,No,No,35,Cash,Monthly,2025-07-23
+P00814,C0385,57,Female,Scarf,Accessories,69.35,California,L,Green,Winter,3.5,No,Free Shipping,Yes,Yes,17,Credit Card,Annually,2025-08-20
+P00815,C0045,62,Male,T-shirt,Clothing,24.85,Texas,S,Pink,Summer,3.0,No,Standard,Yes,Yes,22,Credit Card,Weekly,2025-02-19
+P00816,C0084,60,Female,Jacket,Outerwear,45.33,Washington,One Size,Brown,Fall,3.5,No,Standard,Yes,Yes,18,Debit Card,Quarterly,2025-08-16
+P00817,C0183,60,Male,Hoodie,Outerwear,121.72,Ohio,XL,Green,Winter,4.0,No,Standard,Yes,No,39,PayPal,Monthly,2025-07-31
+P00818,C0260,70,Male,Belt,Accessories,75.0,Georgia,M,White,Fall,2.0,No,Standard,No,No,18,Bank Transfer,Monthly,2025-04-17
+P00819,C0053,53,Other,Scarf,Accessories,19.0,Washington,L,Brown,Summer,4.5,No,Free Shipping,No,No,30,Debit Card,Weekly,2025-10-07
+P00820,C0085,37,Female,Skirt,Clothing,75.0,Washington,S,Brown,Summer,3.5,No,Standard,No,No,15,Debit Card,Quarterly,2025-02-18
+P00821,C0169,41,Male,Jeans,Clothing,45.78,Georgia,L,White,Winter,4.0,No,Standard,Yes,Yes,15,Credit Card,Quarterly,2025-09-20
+P00822,C0008,57,Male,Sunglasses,Accessories,60.85,Washington,M,Black,Fall,4.0,No,Standard,Yes,Yes,27,Debit Card,Monthly,2025-12-17
+P00823,C0159,30,Female,Skirt,Clothing,25.0,California,S,Green,Winter,4.0,Yes,Free Shipping,No,No,16,Debit Card,Monthly,2025-07-27
+P00824,C0304,49,Female,Wallet,Accessories,62.76,Illinois,L,Gray,Spring,5.0,No,Free Shipping,Yes,No,1,Bank Transfer,Monthly,2025-02-08
+P00825,C0211,48,Other,Boots,Footwear,83.35,Texas,M,Pink,Spring,3.0,No,Next Day,Yes,Yes,7,Debit Card,Monthly,2025-07-21
+P00826,C0174,53,Female,Sweater,Clothing,86.0,Washington,L,Pink,Spring,4.0,Yes,Express,No,No,35,PayPal,Monthly,2025-07-13
+P00827,C0196,40,Male,Wallet,Accessories,31.09,Washington,L,Blue,Fall,4.5,No,Free Shipping,Yes,Yes,15,Cash,Monthly,2025-07-21
+P00828,C0379,57,Female,Shirt,Clothing,84.38,Texas,S,White,Fall,2.5,Yes,Standard,Yes,No,4,Credit Card,Quarterly,2025-04-10
+P00829,C0209,21,Male,Boots,Footwear,109.0,Texas,S,Pink,Summer,4.5,Yes,Standard,No,No,37,Debit Card,Quarterly,2025-08-17
+P00830,C0214,57,Female,Sweater,Clothing,25.0,New York,L,White,Summer,5.0,No,Express,No,No,39,Cash,Weekly,2025-04-07
+P00831,C0373,61,Male,Watch,Accessories,79.0,Texas,L,Red,Fall,4.5,Yes,Standard,No,Yes,20,Debit Card,Quarterly,2025-07-23
+P00832,C0063,64,Male,Wallet,Accessories,59.44,Ohio,S,White,Winter,5.0,No,Express,Yes,Yes,25,Debit Card,Monthly,2025-08-06
+P00833,C0039,66,Female,Dress,Clothing,40.0,Washington,M,Red,Winter,4.0,No,Express,No,Yes,30,Cash,Annually,2025-08-24
+P00834,C0180,36,Male,Boots,Footwear,75.86,Georgia,L,Green,Summer,4.0,Yes,Standard,Yes,Yes,3,Credit Card,Monthly,2025-10-19
+P00835,C0128,20,Male,Flats,Footwear,77.0,Georgia,L,White,Fall,3.0,Yes,Express,No,No,12,Cash,Weekly,2025-11-19
+P00836,C0082,52,Female,Sunglasses,Accessories,50.0,Ohio,XL,Red,Spring,2.5,No,Standard,No,Yes,22,Debit Card,Quarterly,2025-10-11
+P00837,C0048,22,Female,Boots,Footwear,155.0,California,M,White,Winter,3.5,Yes,Standard,No,Yes,22,Debit Card,Fortnightly,2025-10-18
+P00838,C0352,32,Male,Hoodie,Outerwear,170.83,Texas,L,Black,Spring,4.0,No,Free Shipping,Yes,No,13,Credit Card,Quarterly,2025-11-14
+P00839,C0246,55,Male,Jeans,Clothing,33.0,New York,L,Brown,Summer,4.0,No,Next Day,No,No,1,Debit Card,Annually,2025-03-30
+P00840,C0277,49,Female,Backpack,Accessories,64.91,New York,M,Pink,Fall,3.5,No,Standard,Yes,Yes,38,Credit Card,Quarterly,2025-04-17
+P00841,C0048,50,Male,Skirt,Clothing,41.65,California,S,Red,Winter,4.5,No,Standard,Yes,Yes,24,Credit Card,Monthly,2025-07-14
+P00842,C0137,57,Female,Sandals,Footwear,90.76,Texas,S,Blue,Spring,3.5,No,Standard,Yes,No,30,Debit Card,Monthly,2025-06-19
+P00843,C0249,26,Female,Sunglasses,Accessories,67.0,New York,XL,Gray,Fall,4.0,Yes,Standard,No,No,18,Credit Card,Monthly,2025-09-14
+P00844,C0212,59,Male,T-shirt,Clothing,46.89,Ohio,M,Green,Spring,3.5,No,Standard,Yes,Yes,20,PayPal,Weekly,2025-01-04
+P00845,C0278,49,Female,Skirt,Clothing,53.0,Illinois,L,Green,Spring,4.5,No,Standard,No,No,18,Credit Card,Annually,2025-02-20
+P00846,C0268,40,Female,Coat,Outerwear,92.77,Washington,L,Green,Summer,4.0,No,Free Shipping,Yes,Yes,17,Credit Card,Monthly,2025-09-30
+P00847,C0166,42,Male,Jeans,Clothing,88.0,Washington,M,Gray,Fall,4.5,Yes,Free Shipping,No,No,27,Credit Card,Monthly,2025-10-28
+P00848,C0314,44,Female,Sandals,Footwear,77.0,Georgia,XL,Black,Summer,2.5,Yes,Free Shipping,No,No,39,Debit Card,Fortnightly,2025-04-21
+P00849,C0104,47,Female,Skirt,Clothing,32.3,California,L,Black,Winter,4.0,No,Express,Yes,No,31,Credit Card,Annually,2025-04-24
+P00850,C0033,35,Male,Raincoat,Outerwear,81.96,Texas,S,Black,Fall,5.0,Yes,Next Day,Yes,Yes,27,Credit Card,Annually,2025-07-24
+P00851,C0366,29,Male,Dress,Clothing,27.5,Texas,L,Blue,Summer,2.5,No,Next Day,Yes,Yes,1,Debit Card,Monthly,2025-06-24
+P00852,C0010,26,Male,Skirt,Clothing,48.0,Illinois,L,Pink,Summer,4.0,No,Free Shipping,No,Yes,21,PayPal,Fortnightly,2025-03-03
+P00853,C0114,36,Male,Loafers,Footwear,33.95,Illinois,M,Gray,Summer,2.5,No,Next Day,Yes,Yes,38,PayPal,Quarterly,2025-07-02
+P00854,C0046,31,Female,Hoodie,Outerwear,56.0,Ohio,L,Gray,Spring,3.0,No,Next Day,No,Yes,16,Credit Card,Monthly,2025-10-27
+P00855,C0093,45,Female,T-shirt,Clothing,76.0,Illinois,L,Gray,Fall,4.0,Yes,Free Shipping,No,No,22,Cash,Annually,2025-09-24
+P00856,C0158,66,Male,Belt,Accessories,15.0,California,M,Black,Winter,3.5,No,Express,No,No,13,PayPal,Annually,2025-10-26
+P00857,C0052,23,Female,Boots,Footwear,101.0,Illinois,One Size,Blue,Summer,4.0,No,Standard,No,No,8,PayPal,Quarterly,2025-08-23
+P00858,C0187,34,Female,Sandals,Footwear,130.0,Georgia,L,Brown,Summer,5.0,Yes,Standard,No,No,28,Credit Card,Weekly,2025-11-17
+P00859,C0371,20,Male,Dress,Clothing,76.0,Illinois,L,Red,Winter,3.5,No,Standard,No,No,13,Credit Card,Quarterly,2025-04-02
+P00860,C0055,69,Male,Belt,Accessories,37.53,Illinois,S,Green,Fall,3.0,No,Standard,Yes,Yes,23,Debit Card,Annually,2025-01-17
+P00861,C0371,55,Male,Boots,Footwear,51.0,California,M,Brown,Summer,4.5,Yes,Standard,No,No,24,Credit Card,Monthly,2025-02-11
+P00862,C0165,30,Female,Sneakers,Footwear,114.24,New York,M,Black,Spring,4.0,No,Standard,Yes,Yes,34,PayPal,Quarterly,2025-12-29
+P00863,C0237,39,Female,Loafers,Footwear,137.0,California,L,Brown,Winter,5.0,Yes,Standard,No,No,37,Credit Card,Monthly,2025-08-22
+P00864,C0177,56,Male,Belt,Accessories,55.0,New York,L,Gray,Fall,3.5,No,Free Shipping,No,No,22,Credit Card,Annually,2025-04-01
+P00865,C0127,68,Male,Dress,Clothing,22.0,Florida,L,Red,Fall,4.5,No,Standard,No,No,2,Credit Card,Quarterly,2025-11-08
+P00866,C0044,48,Female,Jacket,Outerwear,46.0,Georgia,M,Red,Summer,5.0,No,Standard,No,Yes,23,Credit Card,Weekly,2025-04-23
+P00867,C0238,32,Female,Sneakers,Footwear,54.55,Florida,L,Black,Spring,3.5,No,Standard,Yes,Yes,35,Debit Card,Monthly,2025-08-07
+P00868,C0367,54,Female,Loafers,Footwear,46.0,Washington,XL,Blue,Summer,4.5,Yes,Standard,No,No,19,Credit Card,Weekly,2025-04-02
+P00869,C0209,54,Male,Dress,Clothing,76.93,Ohio,L,Blue,Winter,4.5,No,Next Day,Yes,Yes,23,Debit Card,Monthly,2025-02-04
+P00870,C0240,52,Male,Skirt,Clothing,32.0,Ohio,L,Pink,Summer,4.5,Yes,Express,No,No,30,Credit Card,Annually,2025-04-08
+P00871,C0258,20,Female,Sandals,Footwear,63.0,Washington,XL,Black,Fall,3.5,No,Standard,No,No,18,Debit Card,Fortnightly,2025-03-25
+P00872,C0156,55,Female,Skirt,Clothing,87.26,Ohio,S,White,Winter,4.0,Yes,Express,Yes,Yes,17,Bank Transfer,Annually,2025-07-21
+P00873,C0049,19,Female,Raincoat,Outerwear,141.1,Texas,L,Blue,Spring,3.0,Yes,Standard,Yes,No,19,Cash,Weekly,2025-01-08
+P00874,C0203,65,Female,T-shirt,Clothing,27.71,Florida,One Size,White,Spring,5.0,Yes,Next Day,Yes,Yes,34,Debit Card,Quarterly,2025-03-29
+P00875,C0348,64,Male,Sneakers,Footwear,64.41,Florida,L,Black,Spring,3.0,Yes,Free Shipping,Yes,Yes,20,Debit Card,Annually,2025-07-27
+P00876,C0126,47,Female,Hoodie,Outerwear,112.5,Ohio,M,White,Winter,3.0,Yes,Free Shipping,Yes,Yes,13,PayPal,Quarterly,2025-05-24
+P00877,C0349,52,Male,Sweater,Clothing,71.0,Florida,One Size,Gray,Fall,5.0,Yes,Standard,No,No,24,Bank Transfer,Quarterly,2025-08-21
+P00878,C0342,21,Male,Sweater,Clothing,94.0,Georgia,S,Brown,Winter,3.5,No,Next Day,No,No,28,Debit Card,Annually,2025-08-28
+P00879,C0098,64,Other,Scarf,Accessories,58.68,California,M,Red,Winter,4.5,No,Free Shipping,Yes,Yes,36,Credit Card,Monthly,2025-12-19
+P00880,C0231,32,Male,Sunglasses,Accessories,83.0,California,S,Gray,Summer,3.5,Yes,Free Shipping,No,Yes,35,PayPal,Quarterly,2025-11-02
+P00881,C0300,31,Female,Jeans,Clothing,18.0,Washington,M,Green,Spring,4.5,No,Standard,No,No,31,Credit Card,Weekly,2025-03-25
+P00882,C0198,55,Female,Backpack,Accessories,23.07,Ohio,M,Pink,Summer,3.5,No,Express,Yes,No,30,PayPal,Monthly,2025-09-10
+P00883,C0280,67,Female,Hoodie,Outerwear,122.32,Washington,M,Brown,Fall,4.0,No,Standard,Yes,No,18,Credit Card,Fortnightly,2025-08-17
+P00884,C0365,44,Male,Scarf,Accessories,10.12,Texas,XL,Blue,Summer,4.0,No,Standard,Yes,Yes,14,Credit Card,Quarterly,2025-08-05
+P00885,C0251,44,Female,T-shirt,Clothing,35.36,New York,M,Green,Spring,4.0,No,Next Day,Yes,Yes,22,Cash,Quarterly,2025-10-19
+P00886,C0336,47,Female,T-shirt,Clothing,28.0,Texas,L,Brown,Winter,3.5,No,Express,No,No,28,PayPal,Monthly,2025-02-23
+P00887,C0321,33,Female,Sweater,Clothing,94.0,Florida,XL,White,Summer,3.0,Yes,Standard,No,No,21,Debit Card,Annually,2025-05-17
+P00888,C0326,49,Female,Sweater,Clothing,15.57,Florida,XL,Green,Fall,4.5,No,Free Shipping,Yes,No,9,Cash,Weekly,2025-10-25
+P00889,C0341,68,Male,T-shirt,Clothing,27.0,Georgia,M,Red,Winter,3.5,No,Express,No,No,1,Cash,Annually,2025-11-22
+P00890,C0091,38,Male,Loafers,Footwear,45.37,Ohio,S,White,Fall,3.5,No,Free Shipping,Yes,Yes,3,Debit Card,Weekly,2025-01-14
+P00891,C0008,58,Male,Skirt,Clothing,27.0,Ohio,L,Blue,Fall,4.0,No,Free Shipping,No,No,17,Bank Transfer,Monthly,2025-06-22
+P00892,C0062,59,Male,Jacket,Outerwear,142.0,New York,XL,Black,Spring,4.0,No,Free Shipping,No,No,31,Debit Card,Monthly,2025-04-07
+P00893,C0100,63,Female,Jeans,Clothing,40.35,California,L,Gray,Fall,4.5,No,Free Shipping,Yes,No,31,Credit Card,Monthly,2025-03-03
+P00894,C0277,56,Female,Jeans,Clothing,75.4,Florida,M,Brown,Winter,4.0,Yes,Standard,Yes,Yes,32,Cash,Quarterly,2025-01-21
+P00895,C0204,66,Female,Loafers,Footwear,60.0,Illinois,L,Gray,Winter,5.0,Yes,Standard,No,No,28,Debit Card,Quarterly,2025-07-16
+P00896,C0188,55,Male,Hoodie,Outerwear,136.0,Washington,L,Blue,Spring,4.5,No,Free Shipping,No,No,1,Cash,Quarterly,2025-09-01
+P00897,C0004,69,Male,T-shirt,Clothing,56.57,Texas,L,Black,Spring,4.5,Yes,Standard,Yes,Yes,35,Credit Card,Fortnightly,2025-07-13
+P00898,C0274,55,Female,Jeans,Clothing,54.32,New York,XL,Gray,Spring,4.5,No,Standard,Yes,Yes,37,Credit Card,Fortnightly,2025-05-15
+P00899,C0146,62,Male,T-shirt,Clothing,69.96,Texas,L,Blue,Winter,3.0,Yes,Express,Yes,Yes,34,Credit Card,Weekly,2025-10-09
+P00900,C0305,65,Female,Wallet,Accessories,25.0,Ohio,L,Green,Summer,5.0,No,Standard,No,No,18,PayPal,Monthly,2025-08-26
+P00901,C0046,70,Female,Scarf,Accessories,48.0,Georgia,L,Pink,Fall,4.5,No,Standard,No,No,9,Cash,Fortnightly,2025-11-28
+P00902,C0119,49,Male,Shirt,Clothing,83.0,Georgia,L,Black,Summer,4.0,No,Express,No,No,36,Debit Card,Monthly,2025-05-07
+P00903,C0022,55,Male,Shirt,Clothing,88.0,Illinois,L,Green,Fall,3.5,No,Standard,No,Yes,8,Credit Card,Quarterly,2025-03-29
+P00904,C0114,69,Male,Wallet,Accessories,56.0,New York,M,Pink,Winter,3.5,No,Next Day,No,No,31,Debit Card,Annually,2025-06-16
+P00905,C0370,38,Male,Coat,Outerwear,157.0,Georgia,L,White,Summer,4.5,No,Standard,No,No,38,Credit Card,Quarterly,2025-07-05
+P00906,C0197,24,Female,Wallet,Accessories,63.6,California,L,Brown,Winter,4.0,No,Express,Yes,No,36,PayPal,Weekly,2025-06-17
+P00907,C0176,64,Male,Scarf,Accessories,56.0,Texas,M,Brown,Summer,4.5,No,Standard,No,No,21,PayPal,Monthly,2025-10-31
+P00908,C0110,51,Male,Sweater,Clothing,73.58,Georgia,S,Red,Spring,4.0,Yes,Express,Yes,Yes,33,Credit Card,Fortnightly,2025-01-17
+P00909,C0106,40,Male,Sweater,Clothing,19.6,Illinois,L,White,Spring,4.0,No,Standard,Yes,Yes,33,Debit Card,Monthly,2025-07-12
+P00910,C0267,55,Female,Dress,Clothing,44.0,California,L,Gray,Summer,3.5,No,Standard,No,No,38,PayPal,Monthly,2025-06-07
+P00911,C0395,19,Other,Loafers,Footwear,40.0,Illinois,M,Green,Fall,3.5,No,Free Shipping,No,No,15,Credit Card,Annually,2025-03-18
+P00912,C0299,43,Female,Flats,Footwear,37.0,New York,M,Red,Winter,3.0,No,Standard,No,Yes,25,Debit Card,Monthly,2025-08-22
+P00913,C0295,32,Female,Hoodie,Outerwear,124.0,Texas,M,Blue,Winter,4.5,No,Next Day,No,No,32,PayPal,Fortnightly,2025-10-20
+P00914,C0189,33,Male,Jacket,Outerwear,80.0,Georgia,One Size,Gray,Fall,4.0,No,Standard,No,No,9,Debit Card,Monthly,2025-07-19
+P00915,C0040,69,Male,Jacket,Outerwear,113.0,Texas,XL,Blue,Summer,5.0,No,Standard,No,No,9,Credit Card,Annually,2025-02-01
+P00916,C0290,47,Other,Coat,Outerwear,96.79,Georgia,L,Blue,Spring,4.5,No,Standard,Yes,Yes,16,Credit Card,Weekly,2025-01-28
+P00917,C0324,25,Male,Skirt,Clothing,50.56,Illinois,M,Black,Winter,4.5,No,Free Shipping,Yes,Yes,15,PayPal,Quarterly,2025-06-03
+P00918,C0205,37,Female,Jeans,Clothing,95.0,Washington,L,Red,Summer,4.0,Yes,Standard,No,Yes,30,Credit Card,Fortnightly,2025-09-01
+P00919,C0037,30,Male,Dress,Clothing,67.18,Washington,L,Black,Winter,4.5,No,Standard,Yes,Yes,37,Cash,Fortnightly,2025-04-25
+P00920,C0286,66,Female,Watch,Accessories,38.0,Illinois,One Size,White,Fall,5.0,Yes,Express,No,No,7,Debit Card,Quarterly,2025-04-23
+P00921,C0369,33,Male,T-shirt,Clothing,33.92,New York,S,Blue,Winter,4.5,Yes,Standard,Yes,No,13,Debit Card,Weekly,2025-11-10
+P00922,C0090,36,Female,Sandals,Footwear,106.22,Georgia,S,Red,Winter,3.0,Yes,Free Shipping,Yes,Yes,37,PayPal,Quarterly,2025-01-06
+P00923,C0064,35,Male,Belt,Accessories,19.0,Florida,L,Brown,Fall,4.5,No,Free Shipping,No,No,24,Debit Card,Weekly,2025-01-30
+P00924,C0296,27,Male,Belt,Accessories,37.55,Washington,M,Red,Fall,3.0,Yes,Express,Yes,Yes,9,Credit Card,Monthly,2025-02-26
+P00925,C0133,59,Male,Shirt,Clothing,50.0,Illinois,L,Green,Spring,3.0,Yes,Express,No,No,24,Credit Card,Monthly,2025-12-26
+P00926,C0287,48,Female,T-shirt,Clothing,30.0,Washington,L,Blue,Spring,4.5,Yes,Standard,No,No,35,PayPal,Quarterly,2025-07-01
+P00927,C0282,41,Female,Jeans,Clothing,59.8,Texas,S,Black,Fall,4.5,No,Free Shipping,Yes,Yes,15,Debit Card,Quarterly,2025-02-27
+P00928,C0107,38,Female,Sneakers,Footwear,68.0,Ohio,M,Pink,Fall,3.5,No,Express,No,Yes,19,Cash,Quarterly,2025-04-24
+P00929,C0017,53,Female,Scarf,Accessories,23.0,California,L,Green,Fall,3.0,No,Standard,No,No,24,Debit Card,Monthly,2025-12-20
+P00930,C0223,23,Male,Flats,Footwear,113.0,Washington,XL,Black,Summer,5.0,No,Free Shipping,No,Yes,33,Debit Card,Fortnightly,2025-09-11
+P00931,C0164,67,Female,Skirt,Clothing,29.0,Illinois,M,Green,Fall,3.0,Yes,Free Shipping,No,No,23,Credit Card,Monthly,2025-03-23
+P00932,C0343,47,Male,Shirt,Clothing,72.0,Illinois,M,Black,Winter,2.5,No,Express,No,No,38,Credit Card,Monthly,2025-03-29
+P00933,C0144,30,Female,Sweater,Clothing,28.0,New York,L,Black,Spring,4.5,Yes,Standard,No,No,30,Cash,Weekly,2025-01-28
+P00934,C0100,46,Female,Boots,Footwear,67.57,Florida,M,White,Summer,5.0,No,Next Day,Yes,Yes,17,Credit Card,Annually,2025-10-10
+P00935,C0345,63,Male,Sneakers,Footwear,134.0,New York,L,Gray,Winter,4.0,No,Free Shipping,No,No,20,Bank Transfer,Monthly,2025-02-20
+P00936,C0295,27,Female,Jeans,Clothing,34.0,Illinois,L,Green,Spring,4.0,No,Express,No,No,28,Credit Card,Weekly,2025-04-15
+P00937,C0248,45,Female,Hoodie,Outerwear,178.0,Washington,M,Brown,Summer,4.0,Yes,Standard,No,No,3,Debit Card,Annually,2025-05-08
+P00938,C0382,49,Female,Skirt,Clothing,76.0,Illinois,L,Blue,Summer,3.5,Yes,Standard,No,No,9,Credit Card,Monthly,2025-08-15
+P00939,C0314,60,Female,Hoodie,Outerwear,202.0,Ohio,L,Blue,Fall,4.5,No,Standard,No,No,10,PayPal,Quarterly,2025-08-10
+P00940,C0347,48,Male,Skirt,Clothing,29.0,Texas,S,Green,Summer,5.0,No,Standard,No,No,32,Credit Card,Fortnightly,2025-10-19
+P00941,C0320,57,Female,Sweater,Clothing,75.0,Texas,L,Brown,Winter,4.0,No,Free Shipping,No,Yes,33,Debit Card,Monthly,2025-04-19
+P00942,C0161,59,Female,Sneakers,Footwear,131.64,Florida,One Size,Gray,Spring,3.5,No,Standard,Yes,Yes,32,Bank Transfer,Monthly,2025-05-21
+P00943,C0025,65,Male,Skirt,Clothing,68.95,California,L,Gray,Summer,3.5,No,Standard,Yes,Yes,5,PayPal,Fortnightly,2025-05-22
+P00944,C0243,37,Male,Jeans,Clothing,30.0,Ohio,M,Black,Fall,2.5,Yes,Free Shipping,No,No,12,Credit Card,Quarterly,2025-01-18
+P00945,C0306,55,Male,Sunglasses,Accessories,71.0,Ohio,L,Pink,Spring,3.5,No,Standard,No,Yes,13,Cash,Fortnightly,2025-09-27
+P00946,C0397,31,Female,Skirt,Clothing,24.0,Florida,M,Pink,Winter,2.5,Yes,Standard,No,No,1,Debit Card,Fortnightly,2025-07-15
+P00947,C0273,62,Male,Loafers,Footwear,90.9,Ohio,L,Green,Fall,4.5,No,Free Shipping,Yes,Yes,11,Credit Card,Weekly,2025-06-23
+P00948,C0228,68,Female,Sandals,Footwear,92.0,New York,L,White,Winter,3.5,No,Standard,No,No,17,Debit Card,Fortnightly,2025-12-30
+P00949,C0231,33,Female,Flats,Footwear,96.0,California,M,Gray,Summer,4.5,No,Free Shipping,No,No,35,Cash,Fortnightly,2025-03-07
+P00950,C0047,47,Male,T-shirt,Clothing,59.0,Texas,M,Gray,Summer,4.0,No,Standard,No,Yes,7,Debit Card,Quarterly,2025-12-20
+P00951,C0003,61,Male,Wallet,Accessories,12.0,Florida,One Size,Pink,Winter,4.5,Yes,Standard,No,No,34,PayPal,Monthly,2025-09-06
+P00952,C0019,19,Male,Jeans,Clothing,58.0,California,M,Black,Spring,5.0,No,Express,No,No,32,PayPal,Fortnightly,2025-03-22
+P00953,C0362,55,Male,Skirt,Clothing,94.0,Illinois,XL,Green,Summer,4.0,No,Standard,No,No,7,Debit Card,Monthly,2025-09-05
+P00954,C0317,61,Female,Jeans,Clothing,52.0,Ohio,L,Gray,Summer,3.0,No,Express,No,No,11,Credit Card,Fortnightly,2025-10-03
+P00955,C0105,64,Male,Hoodie,Outerwear,89.0,Florida,L,White,Summer,4.5,No,Standard,No,No,18,PayPal,Monthly,2025-05-13
+P00956,C0170,28,Male,Coat,Outerwear,219.0,Florida,S,Brown,Summer,2.5,No,Express,No,No,37,Debit Card,Quarterly,2025-05-06
+P00957,C0194,58,Female,Sneakers,Footwear,38.0,New York,M,Black,Fall,3.5,Yes,Standard,No,Yes,31,Credit Card,Quarterly,2025-11-01
+P00958,C0099,59,Female,Backpack,Accessories,38.96,Texas,S,Black,Spring,2.5,No,Free Shipping,Yes,No,38,Credit Card,Quarterly,2025-02-28
+P00959,C0170,18,Female,Belt,Accessories,37.38,Ohio,L,Brown,Winter,5.0,No,Express,Yes,Yes,13,Cash,Fortnightly,2025-01-05
+P00960,C0140,55,Male,Sunglasses,Accessories,45.0,Ohio,One Size,Blue,Winter,2.0,Yes,Express,No,No,36,Credit Card,Fortnightly,2025-09-01
+P00961,C0278,51,Female,Wallet,Accessories,79.0,New York,XL,Red,Spring,4.0,No,Standard,No,No,38,Credit Card,Quarterly,2025-11-27
+P00962,C0303,69,Female,Watch,Accessories,41.0,New York,S,White,Winter,4.0,No,Express,No,No,24,Credit Card,Monthly,2025-07-02
+P00963,C0040,20,Male,Shirt,Clothing,74.3,Ohio,M,Gray,Summer,4.5,Yes,Express,Yes,Yes,7,Credit Card,Monthly,2025-02-19
+P00964,C0187,69,Male,Dress,Clothing,20.0,California,S,Black,Spring,3.5,Yes,Standard,No,No,11,Bank Transfer,Annually,2025-07-16
+P00965,C0397,48,Female,Raincoat,Outerwear,130.42,Illinois,One Size,White,Summer,5.0,No,Next Day,Yes,No,6,Debit Card,Monthly,2025-04-02
+P00966,C0348,32,Male,Backpack,Accessories,54.0,Ohio,M,Pink,Winter,4.5,No,Standard,No,No,32,PayPal,Quarterly,2025-10-29
+P00967,C0318,38,Male,Raincoat,Outerwear,83.0,Ohio,M,White,Winter,4.0,Yes,Standard,No,No,13,PayPal,Monthly,2025-08-12
+P00968,C0294,58,Male,Skirt,Clothing,34.0,Illinois,L,Green,Fall,4.0,Yes,Next Day,No,No,28,Debit Card,Fortnightly,2025-05-03
+P00969,C0002,70,Female,Sunglasses,Accessories,63.0,Florida,L,Pink,Winter,4.5,Yes,Standard,No,No,11,Cash,Weekly,2025-08-16
+P00970,C0390,34,Female,Skirt,Clothing,52.75,Ohio,M,Green,Summer,4.5,Yes,Standard,Yes,No,39,Bank Transfer,Monthly,2025-09-01
+P00971,C0295,70,Male,Sweater,Clothing,66.0,Washington,L,Brown,Winter,4.0,No,Next Day,No,No,31,PayPal,Fortnightly,2025-09-05
+P00972,C0356,51,Female,Dress,Clothing,19.0,Ohio,S,Pink,Fall,4.0,Yes,Next Day,No,No,15,PayPal,Quarterly,2025-05-14
+P00973,C0364,28,Male,Shirt,Clothing,65.0,Illinois,S,Green,Spring,2.5,Yes,Standard,No,No,19,Debit Card,Quarterly,2025-07-28
+P00974,C0102,49,Female,Raincoat,Outerwear,216.0,Georgia,S,Brown,Spring,3.0,Yes,Standard,No,Yes,3,Cash,Monthly,2025-01-16
+P00975,C0006,60,Male,Sweater,Clothing,13.64,Ohio,M,Green,Summer,2.5,No,Express,Yes,Yes,6,Credit Card,Monthly,2025-05-28
+P00976,C0264,20,Male,Backpack,Accessories,34.62,New York,One Size,Brown,Spring,2.5,No,Express,Yes,Yes,39,PayPal,Monthly,2025-05-18
+P00977,C0184,22,Male,Wallet,Accessories,36.73,Texas,L,Gray,Summer,3.5,No,Express,Yes,No,32,Debit Card,Monthly,2025-07-15
+P00978,C0009,18,Male,T-shirt,Clothing,74.41,Ohio,L,White,Winter,5.0,No,Next Day,Yes,No,33,Debit Card,Quarterly,2025-12-13
+P00979,C0109,48,Male,Scarf,Accessories,25.91,New York,M,Green,Spring,4.5,No,Next Day,Yes,No,26,Cash,Weekly,2025-12-15
+P00980,C0397,21,Female,Skirt,Clothing,55.0,Washington,L,White,Fall,5.0,No,Free Shipping,No,No,9,PayPal,Annually,2025-06-26
+P00981,C0146,67,Female,Hoodie,Outerwear,169.0,Texas,One Size,Red,Winter,4.5,No,Standard,No,No,5,Credit Card,Weekly,2025-08-24
+P00982,C0105,24,Male,Loafers,Footwear,24.75,California,M,White,Summer,4.5,No,Standard,Yes,Yes,29,PayPal,Fortnightly,2025-02-09
+P00983,C0262,21,Male,Boots,Footwear,106.74,Illinois,One Size,Red,Fall,3.0,Yes,Standard,Yes,No,13,Bank Transfer,Quarterly,2025-06-26
+P00984,C0266,31,Other,Backpack,Accessories,57.15,Georgia,L,White,Summer,4.5,No,Standard,Yes,Yes,1,PayPal,Weekly,2025-09-09
+P00985,C0133,58,Male,T-shirt,Clothing,76.0,Georgia,L,Gray,Summer,3.5,No,Standard,No,No,1,Cash,Fortnightly,2025-09-07
+P00986,C0340,66,Female,Coat,Outerwear,156.0,Florida,M,White,Winter,4.0,No,Free Shipping,No,No,22,Cash,Fortnightly,2025-12-18
+P00987,C0233,31,Male,Skirt,Clothing,78.0,New York,L,Red,Fall,5.0,Yes,Standard,No,No,33,Cash,Quarterly,2025-06-20
+P00988,C0065,45,Male,Shirt,Clothing,81.0,Georgia,L,Blue,Summer,5.0,No,Standard,No,Yes,15,Credit Card,Monthly,2025-11-28
+P00989,C0130,59,Male,Shirt,Clothing,73.88,Georgia,One Size,Red,Winter,3.5,No,Express,Yes,Yes,39,Debit Card,Weekly,2025-12-24
+P00990,C0340,60,Male,Sneakers,Footwear,82.0,Illinois,XL,White,Winter,4.5,Yes,Free Shipping,No,No,15,Cash,Monthly,2025-07-28
+P00991,C0036,26,Male,Watch,Accessories,44.0,Washington,M,Pink,Winter,3.0,Yes,Standard,No,No,29,Bank Transfer,Fortnightly,2025-02-03
+P00992,C0005,62,Male,Boots,Footwear,111.0,Illinois,One Size,Red,Winter,2.5,Yes,Free Shipping,No,No,10,Credit Card,Annually,2025-05-18
+P00993,C0263,63,Female,Loafers,Footwear,40.06,New York,XL,Black,Summer,2.5,No,Free Shipping,Yes,No,24,Credit Card,Weekly,2025-10-07
+P00994,C0177,56,Male,T-shirt,Clothing,87.0,California,L,White,Summer,3.5,No,Standard,No,Yes,11,Credit Card,Monthly,2025-07-31
+P00995,C0102,45,Female,Coat,Outerwear,178.0,California,S,Gray,Spring,4.5,No,Express,No,No,31,PayPal,Monthly,2025-12-08
+P00996,C0189,38,Female,Scarf,Accessories,57.0,Georgia,S,Blue,Fall,4.0,No,Express,No,No,18,Cash,Monthly,2025-10-25
+P00997,C0074,65,Female,Wallet,Accessories,32.0,New York,S,Blue,Winter,2.0,No,Standard,No,No,2,Debit Card,Annually,2025-01-24
+P00998,C0150,63,Female,Skirt,Clothing,35.02,Illinois,S,White,Fall,5.0,No,Express,Yes,No,10,Credit Card,Monthly,2025-11-11
+P00999,C0094,45,Female,Raincoat,Outerwear,118.0,Texas,One Size,White,Fall,4.0,Yes,Standard,No,No,14,Credit Card,Quarterly,2025-05-11
+P01000,C0235,57,Male,Dress,Clothing,71.0,New York,M,Red,Winter,4.0,Yes,Next Day,No,No,19,Cash,Monthly,2025-10-26
